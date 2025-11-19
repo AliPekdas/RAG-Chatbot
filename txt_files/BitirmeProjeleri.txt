@@ -93,4 +93,5 @@ CSE4198 Değerlendirme
 20% Tez Raporu [danışman tarafından]
 25% Dönem içindeki çalışmanın doğruluk ve tutarlılığı [danışman tarafından]
 40% Poster Sunumu [öğretim üyeleri tarafından]
+
 15% CSE4198 seminerine katılım + Quizler
