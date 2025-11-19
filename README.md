@@ -10,7 +10,8 @@ Oluşturulan chunk'ları analiz eder.
 Metni normalize eder (küçük harfe çevirme, noktalama temizliği).
 Hangi kelimenin (Token) hangi dökümanda kaç kez geçtiğini hesaplar (Term Frequency) ve arama yapısını inşa eder.  
 
-Sistem, veritabanı yerine iki ana JSON dosyası üzerinden çalışır:
+Sistem, veritabanı yerine iki ana JSON dosyası üzerinden çalışır:  
+
 -corpus.json (Veri Deposu):
 Kütüphanenin "rafları" gibidir. Metinlerin gerçek içeriğini saklar.
 Her parça için docId, chunkId, başlangıç-bitiş indeksleri ve metnin kendisini tutar. Cevap üretilirken metin buradan çekilir.  
