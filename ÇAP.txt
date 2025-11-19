@@ -1,0 +1,74 @@
+Anasayfa/Lisans Programı/ÇAP Müfredatı
+MARMARA ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ LİSANS DERS MÜFREDATI (8 YARIYIL)
+
+Bu liste tüm zorunlu ve seçmeli ders havuzlarını, derslerin teorik (T), uygulama (U) saatlerini, yerel kredilerini ve AKTS (ECTS) değerlerini içerir.
+
+--- 1. YARIYIL (Freshman - Fall) ---
+1. ATA121 Atatürk İlkeleri ve İnkılap Tarihi I (T:2, U:0, Kredi:2, ECTS:2)
+2. MBG1201 Introduction to Modern Biology (T:3, U:0, Kredi:5, ECTS:5)
+3. CSE1200 Introduction to Computer Engineering (T:3, U:0, Kredi:4, ECTS:4)
+4. CSE1241 Computer Programming I (T:3, U:2, Kredi:6, ECTS:6)
+5. MATH1001 Calculus I (T:4, U:0, Kredi:6, ECTS:6)
+6. PHYS1101 Physics I (T:3, U:0, Kredi:4, ECTS:4)
+7. PHYS1103 Physics Lab I (T:0, U:2, Kredi:2, ECTS:2)
+8. TRD121 Türk Dili I (T:2, U:0, Kredi:2, ECTS:2)
+
+--- 2. YARIYIL (Freshman - Spring) ---
+1. ATA122 Atatürk İlkeleri ve İnkılap Tarihi II (T:2, U:0, Kredi:2, ECTS:2)
+2. CSE1242 Computer Programming II (T:3, U:2, Kredi:6, ECTS:6)
+3. MATH1002 Calculus II (T:4, U:0, Kredi:6, ECTS:6)
+4. MATH2256 Linear Algebra for Computer Engineering (T:3, U:0, Kredi:5, ECTS:5)
+5. NTExxx Non-Technical Elective - 1 (T:2, U:0, Kredi:3, ECTS:3)
+6. PHYS1102 Physics II (T:3, U:0, Kredi:4, ECTS:4)
+7. PHYS1104 Physics Lab II (T:0, U:2, Kredi:2, ECTS:2)
+8. TRD122 Türk Dili II (T:2, U:0, Kredi:2, ECTS:2)
+
+--- 3. YARIYIL (Sophomore - Fall) ---
+1. CSE2023 Discrete Computational Structures (T:3, U:0, Kredi:6, ECTS:6)
+2. CSE2225 Data Structures (T:3, U:2, Kredi:7, ECTS:7)
+3. ECON2004 Engineering Economy (T:2, U:0, Kredi:4, ECTS:4)
+4. EE2031 Electric Circuits (T:3, U:0, Kredi:5, ECTS:5)
+5. MATH2055 Differential Equations (T:3, U:0, Kredi:4, ECTS:4)
+6. MATH2059 Numerical Methods (T:3, U:0, Kredi:4, ECTS:4)
+
+--- 4. YARIYIL (Sophomore - Spring) ---
+1. CSE2246 Analysis of Algorithms (T:3, U:2, Kredi:6, ECTS:6)
+2. CSE2138 Systems Programming (T:3, U:2, Kredi:7, ECTS:7)
+3. CSE2260 Principles of Programming Languages (T:3, U:2, Kredi:6, ECTS:6)
+4. EE2032 Electronics (T:2, U:2, Kredi:5, ECTS:5)
+5. STAT2253 Probability and Statistics for Computer Engineering (T:3, U:0, Kredi:5, ECTS:5)
+
+--- 5. YARIYIL (Junior - Fall) ---
+1. CSE3000 Summer Practice I (Staj 1) (T:0, U:0, Kredi:10, ECTS:10)
+2. CSE3215 Digital Logic Design (T:3, U:2, Kredi:6, ECTS:6)
+3. CSE3033 Operating Systems (T:3, U:2, Kredi:7, ECTS:7)
+4. CSE3055 Database Systems (T:3, U:2, Kredi:7, ECTS:7)
+5. CSE3063 Object-Oriented Software Design (T:3, U:0, Kredi:5, ECTS:5)
+6. IE3081 Modeling and Discrete Simulation (T:3, U:0, Kredi:4, ECTS:4)
+
+--- 6. YARIYIL (Junior - Spring) ---
+1. CSE3038 Computer Organization (T:3, U:2, Kredi:7, ECTS:7)
+2. CSE3044 Software Engineering (T:3, U:2, Kredi:7, ECTS:7)
+3. CSE3048 Introduction to Signals and Systems (T:3, U:0, Kredi:5, ECTS:5)
+4. CSE3264 Formal Languages and Automata Theory (T:3, U:0, Kredi:5, ECTS:5)
+5. IE3235 Operations Research (T:3, U:0, Kredi:4, ECTS:4)
+6. COM2202 Technical Comm. and Entrepreneurship (T:2, U:0, Kredi:2, ECTS:2)
+
+--- 7. YARIYIL (Senior - Fall) ---
+1. CSE4000 Summer Practice II (Staj 2) (T:0, U:0, Kredi:10, ECTS:10)
+2. CSE4074 Computer Networks (T:3, U:0, Kredi:5, ECTS:5)
+3. CSE4219 Principles of Embedded Systems Design (T:3, U:2, Kredi:6, ECTS:6)
+4. CSE4297 Engineering Project I (Bitirme Projesi 1) (T:0, U:2, Kredi:5, ECTS:5)
+5. ISG121 İş Sağlığı ve Güvenliği I (T:2, U:0, Kredi:2, ECTS:2)
+6. CSE4288 Introduction to Machine Learning (T:3, U:0, Kredi:5, ECTS:5)
+7. TExxx Technical Elective - 1 (T:3, U:0, Kredi:5, ECTS:5)
+8. UE University Elective (T:2, U:0, Kredi:3, ECTS:3)
+
+--- 8. YARIYIL (Senior - Spring) ---
+1. CSE4298 Engineering Project II (Bitirme Projesi 2) (T:0, U:2, Kredi:5, ECTS:5)
+2. ISG122 İş Sağlığı ve Güvenliği II (T:2, U:0, Kredi:2, ECTS:2)
+3. NTExxx Non-Technical Elective - 2 (T:2, U:0, Kredi:3, ECTS:3)
+4. FTExxx Faculty Technical Electives (T:3, U:0, Kredi:5, ECTS:5)
+5. TExxx Technical Elective - 2 (T:3, U:0, Kredi:5, ECTS:5)
+6. TExxx Technical Elective - 3 (T:3, U:0, Kredi:5, ECTS:5)
+7. TExxx Technical Elective - 4 (T:3, U:0, Kredi:5, ECTS:5)

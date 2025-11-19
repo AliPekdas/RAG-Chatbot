@@ -1,0 +1,96 @@
+Anasayfa/Lisans Programı/Bitirme Projeleri
+Derslerin İçeriği
+
+Bitirme projesi, öğrenciye profesyonel bir bilgisayar mühendisi gibi bilgi ve yeteneğini kanıtlaması ve disiplinli bir şekilde projeyi uygulayabilmesi için fırsat verir. Diğer taraftan bitirme projesi  öğrencinin gelecek kariyeri için önemli bir basamak olarak değerlendirilebilir. Bu nedenle, projenin uygulanması, bilgi ve yeteneklerin edinilmesinde öğrenciden büyük bir özgünlük beklenir.
+
+ CSE4197 ve CSE4198 derslerinin öğrenciye katkıları:
+
+ -          Proje sorumluluğu
+
+ -          Yönetim becerisi
+
+ -          Grup çalışması alışkanlığı  
+
+ -          Sunum becerisi
+
+ -          Akademisyenler, endüstri liderleri yada çalışanları ile tanışma fırsatı
+
+ 
+
+CSE4197 ve CSE4198 dersleri için ilk olarak öğrenciler iki-üç kişilik gruplar halinde ICT projesini yapabilecek yeterliliğe sahip olmalıdır. İkinci olarak çalışmalarını izleyicilere  sunabilmeleri gerekir. Ayrıca, öğrenciler dersleri kapsamında düzenlenen seminerlere katılmak zorundadır. Bu seminerlerde seçkin sektör liderleri ve akademisyenler deneyim ve tavsiyelerini kendi  uzmanlık alanları dahilinde öğrencilere aktarması için davet edilir. Öğrencilerin bu konferanslara katılması zorunludur.
+
+CSE4197 ve CSE4198 dersleri dördüncü sınıf dersleri olarak planlanmıştır ve mezun olma durumunda olan öğrencilerin bu dersleri alması beklenmektedir.  CSE4197 dersini almak için ise öğrencinin 165  ETC kredisini tamamlaması gerekir. (yaz stajları ve dördüncü sınıf müfredatında yer alan NTE/University Elective/TE/FTE/Work Safety dersleri dahil değildir.) CSE4198 dersi CSE4197 dersini takip eder ve bu dersten geçen öğrenciler takip eden dönemde CSE4198 dersini alabilir. Her grubun  projelerini denetleyen ve gereken yerde tavsiye veren bir danışmanı vardır. Gruplar dönem sonuna kadar haftada bir, dönem sonuna doğru ise daha sık bir şekilde danışmanlarıyla görüşmelidir.
+
+Grup üyeleri her dönem sonunda aynı notu alır. Ancak danışmanın farklı notlar verme yetkisi bulunmaktadır. Bireysel olarak yada tüm grup dönem sonunda dersi tamamlamış olarak da sayılabilir.
+
+CSE4197
+Yeterlilik
+Dördüncü sınıf olmaya hak kazanan ve gerekli koşulları sağlayan öğrenciler CSE4197 Mühendislik Projesi dersini almaya hak kazanır. Öte yandan, proje önerisi vermek ve danışman bulmak için çalışmalar daha erken bir zamanda başlar. CSE4197 dersine kayıt olabilmek için,  yaz stajları ve dördüncü sınıf müfredatında yer alan NTE/University Elective/TE/FTE/Work Safety dersleri hariç olmak üzere en az 165 ECTS kredi tamamlamış olmak şartı gerekmektedir. Süreç 165 ECTS kredisinin tamamlanacağı dönemin sonunda başlar ve dönem sonunda gerekli şartları sağlayan öğrenciler proje önerisini hazırlayarak teslim eder. 
+
+ Öğrenciler yalnız yada iki-üç kişilik gruplar halinde proje teklifinde bulunabilir. Grubun oluşturan öğrenci sayısı projenin kapsamına ve yapılacak işin miktarına bağlıdır. Grup üyeleri üzerindeki son karar danışman tarafından verilir. Projeleri için danışman bulmak öğrencinin sorumluluğundadır. Ayrıca öğretim üyeleri öğrencilere proje konusu sunabilirler. Projenin belirlenmesinde öğrenci(ler) ve danışman içerik konusunda görüşmelidirler. Proje üzerindeki fikir birliğinden sonra öğrenci(ler) ve danışman sözlü bir anlaşma yaparlar.
+
+ CSE497 dersine kayıt olduktan sonra, öğrenciler danışman ile projenin tasarımı ve uygulaması üzerinde düzenli bir şekilde çalışması gerekir. Dönem boyunca öğrenciler haftada bir kez danışmalarıyla toplantı yapar. Toplantılarda projenin ilerleyişi ve içeriği ilgili fikir alışverişinde bulunulur. Öğrencilerin görüşülen konuları not alması beklenir. Not edilen çalışmalar proje zaman çizelgesini takip etmek için kullanılır. Ayrıca bu notlar proje raporlarının hazırlanması sırasında faydalı olacaktır.
+
+ 
+Teslim Edilmesi Gerekenler
+
+- Proje önerisi: CSE4197 Mühendislik Projesi I dersini alabilecek düzeye gelen öğrencilerin hazırladığı form. Proje önerisi projeyi tanımlar ve araştırma konusu üzerindeki yaklaşımları ve metotları tarif eder. Detaylı bilgiye buradan ulaşabilirsiniz. Proje önerisi için forma buradan ulaşabilirsiniz
+
+- Detaylı Proje Dokümanı (PSD): CSE4197 mühendislik Projesi I dersine kayıt yaptırdıktan sonra teslim edilir. Proje önerisinin geniş versiyonudur, projenin, problemin ve çözüm için kullanılacak metotların açıklandığı dökümandır. Detaylı bilgiye buradan ulaşabilirsiniz.
+
+- Sunum: CSE4197 sunumu hazırlanması gereken “Proje Raporu”’nun özeti olacaktır. Detaylı bilgiye buradan ulaşabilirsiniz.
+
+- Dizayn ve Analiz Dokümanı (ADD): CSE4197 Mühendislik Projesi I için PSD'nin devamı niteliğinde, projenin dizayn ve analiz kısmını sunan dökümandır. Detaylı bilgiye buradan ulaşabilirsiniz.
+
+ 
+Zaman Çizelgesi
+
+- Proje Başlığının Belirlenmesi, danışman ve proje önerisi verilmesi – Belirtilen kriterler dahilinde 165 ECTS kredinin tamamlandığı dönemin sonuna kadar
+
+- Detaylı Proje Dokümanı – CSE4197 dersine kayıt yapılan dönemin 6. haftasının sonuna kadar
+
+- Sunum – CSE4197 dersine kayıt yapılan  dönemin 13. hafta Perşembe ve Cuma günü.
+
+- Dizayn ve Analiz Dokümanı  – CSE4197 dersine kayıt yapılan dönemin sonuna kadar
+
+- Seminerler – Katılmak zorunluluğu olan seminer listesi dönem başında verilir.
+
+Değerlendirme
+CSE4197 Değerlendirme
+25% Detaylı Proje Dokümanı [Kurul tarafından]
+15% Analiz ve Dizayn Dökümanı [danışman tarafından]
+20% Dönem içinde yapılan çalışma, doğruluğu ve tutarlılığı[danışman tarafından]
+25% Sunum [katılan jüri üyeleri tarafından]
+15% CSE4197 Seminerlerine katılım + Quizler
+
+CSE4198
+CSE4197 Mühendislik Projesi I dersinde başarılı olan öğrenciler CSE4198 Mühendislik Projesi II almaya hak kazanır.
+
+Teslim Edilmesi Gerekenler
+
+ - Poster sunumu: CSE4198 poster sunumu projenin görsel bir özeti olacaktır. Detaylı bilgiye buradan ulaşabilirsiniz.
+
+ - Proje raporu: CSE4198 dersinin final raporudur. Detaylı bilgiye buradan ulaşabilirsiniz.
+
+ - Video : Poster başında proje anlatırken çekilmiş 5-8 dk. arası video kaydı.
+
+ - CD/DVD: Proje raporu, poster, video ve yazılım geliştirildiyse kaynak kodlarını içeren CD/DVD proje raporuna eklenerek verilecektir. 
+
+   
+Zaman Çizelgesi
+
+ - Poster sunumu:  CSE4198 dersine kayıtlı dönemin 13. haftası  Perşembe ve Cuma günü.
+
+ - Proje Raporu:  CSE4198 dersine kayıtlı yarıyıl sonuna kadar.
+
+ - Video: CSE4198 dersine kayıtlı yarıyıl sonuna kadar. 
+
+ - Seminer: Katılmak zorunluluğu olan seminer listesi dönem başında ilan edilir.
+
+   
+Değerlendirme
+CSE4198 Değerlendirme
+20% Tez Raporu [danışman tarafından]
+25% Dönem içindeki çalışmanın doğruluk ve tutarlılığı [danışman tarafından]
+40% Poster Sunumu [öğretim üyeleri tarafından]
+15% CSE4198 seminerine katılım + Quizler

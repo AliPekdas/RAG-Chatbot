@@ -1,0 +1,234 @@
+Anasayfa/Akademik Kadro/Öğretim Üyeleri
+MARMARA ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ AKADEMİK KADRO VE İLETİŞİM BİLGİLERİ
+
+Bu belge, öğretim üyelerinin iletişim bilgilerini, ofis numaralarını, dahili telefonlarını ve eğitim geçmişlerini içerir. E-posta adresleri "@marmara.edu.tr" uzantısı ile tamamlanmalıdır. Dahili numaralar dışarıdan aranırken "+90 216 777" ön eki eklenmelidir (Örnek: 3537 için 0216 777 3537).
+
+--- BÖLÜM YÖNETİMİ ---
+
+Akademisyen: Prof. Dr. Haluk Rahmi TOPÇUOĞLU
+Görevi: Bölüm Başkanı
+Ofis: M2-217
+Dahili Telefon: 3537
+E-posta: haluk@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Computer Eng. - Syracuse University
+- MS (Yüksek Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+
+Akademisyen: Dr. Öğr. Üyesi Betül Demiröz BOZ
+Görevi: Bölüm Başkan Yardımcısı
+Ofis: M2-234
+Dahili Telefon: 3534
+E-posta: betul.demiroz@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Boğaziçi Üniversitesi
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+
+Akademisyen: Doç. Dr. Ömer KORÇAK
+Görevi: Bölüm Başkan Yardımcısı
+Ofis: M2-208
+Dahili Telefon: 3543
+E-posta: omer.korcak@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Boğaziçi Üniversitesi
+- MS (Yüksek Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+
+--- ÖĞRETİM ÜYELERİ (PROFESÖRLER VE DOÇENTLER) ---
+
+Akademisyen: Prof. Dr. Ali Fuat ALKAYA
+Ofis: M2-249
+Dahili Telefon: 3532
+E-posta: falkaya@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Mühendislik Yönetimi - Marmara Üniversitesi
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Matematik - Koç Üniversitesi
+
+Akademisyen: Prof. Dr. Borahan TÜMER
+Ofis: M2-209
+Dahili Telefon: 3541
+E-posta: borahan.tumer@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Computer Eng. - Marquette University
+- MS (Yüksek Lisans): Bilgisayar Müh. - İstanbul Teknik Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+
+Akademisyen: Doç. Dr. Mustafa AĞAOĞLU
+Ofis: M2-221
+Dahili Telefon: 3540
+E-posta: agaoglu@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilişim - Marmara Üniversitesi
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Fizik - Boğaziçi Üniversitesi
+
+Akademisyen: Doç. Dr. Murat Can GANİZ
+Ofis: M2-251
+Dahili Telefon: 3539
+E-posta: murat.ganiz@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Computer Science - Lehigh University
+- MS (Yüksek Lisans): Bilgisayar Müh. - Selçuk Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Selçuk Üniversitesi
+
+Akademisyen: Doç. Dr. Öğr. Üyesi Ali Haydar ÖZER
+Ofis: M2-253
+Dahili Telefon: 3533
+E-posta: haydar.ozer@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Boğaziçi Üniversitesi
+- MS (Yüksek Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+
+Akademisyen: Doç. Dr. Müjdat SOYTÜRK
+Ofis: M2-204
+Dahili Telefon: 3542
+E-posta: mujdat.soyturk@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - İstanbul Teknik Üniversitesi
+- MS (Yüksek Lisans): Bilgisayar Müh. - İstanbul Teknik Üniversitesi
+- BS (Lisans): Endüstri Müh. - Deniz Harp Okulu
+
+--- DOKTOR ÖĞRETİM ÜYELERİ ---
+
+Akademisyen: Dr. Öğr. Üyesi Mehmet BARAN
+Ofis: M2-233
+Dahili Telefon: 3538
+E-posta: mehmet.baran@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Computer Eng. - Rensselear Polytechnic Institute
+- MS (Yüksek Lisans): Computer Eng./Mathematics - Rensselear Polytechnic Institute
+- BS (Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+
+Akademisyen: Dr. Öğr. Üyesi Fatma Corut ERGİN
+Ofis: M2-229
+Dahili Telefon: 3536
+E-posta: fatma.ergin@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - İstanbul Teknik Üniversitesi
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+
+Akademisyen: Dr. Öğr. Üyesi Sanem ARSLAN
+Ofis: M2-230
+Dahili Telefon: 3550
+E-posta: sanem.arslan@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Boğaziçi Üniversitesi
+- MS (Yüksek Lisans): Bilgisayar Müh. - Boğaziçi Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+
+Akademisyen: Dr. Öğr. Üyesi Kamil ERDAYANDI
+Ofis: M2-232
+Dahili Telefon: 3535
+E-posta: kamil.erdayandi@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Computer Science - The University of Manchester
+- MS (Yüksek Lisans): Elektronik Müh. - Sabancı Üniversitesi
+- BS (Lisans): E. Elektronik Müh. ve Bilgisayar Müh. (ÇAP) - Yeditepe Üniversitesi
+
+--- DİĞER BİLGİLER ---
+
+Önceki Dönemlerde Görev Alan Öğretim Üyeleri:
+- Prof. Dr. Çiğdem Eroğlu Erdem
+- Prof. Dr. Akif Eyler
+- Prof. Dr. Ensar Gül
+- Doç. Dr. Melih Kırlıdoğ
+- Dr. Öğr. Üyesi Peter Schuller
+- Dr. Öğr. Üyesi Mustafa Sakallı
+
+Genel Bölüm İletişim:
+- Bölüm Sekreterliği Dahili Telefon: 3530
+- Dışarıdan aramak için: +90 216 777 3530
+- Mail adreslerinin sonuna @marmara.edu.tr eklenecektir
+
+Anasayfa/Akademik Kadro/Araştırma Görevlileri
+--- ARAŞTIRMA GÖREVLİLERİ ---
+
+Akademisyen: Arş. Gör. Serap KORKMAZ
+Unvan: Araştırma Görevlisi
+Ofis: M2-201
+Dahili Telefon: 3548
+E-posta: serap.korkmaz@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Marmara Üniversitesi (Devam Ediyor)
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+
+Akademisyen: Arş. Gör. Zuhal ALTUNTAŞ
+Unvan: Araştırma Görevlisi
+Ofis: M2-223
+Dahili Telefon: 3549
+E-posta: zuhal.altuntas@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Marmara Üniversitesi (Devam Ediyor)
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Fatih Üniversitesi
+
+Akademisyen: Arş. Gör. Zuhal ÖZTÜRK
+Unvan: Araştırma Görevlisi
+Ofis: M2-242
+Dahili Telefon: Belirtilmemiş
+E-posta: zuhal.ozturk@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Marmara Üniversitesi (Devam Ediyor)
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+
+Akademisyen: Arş. Gör. Kübra ULUDAĞ
+Unvan: Araştırma Görevlisi
+Ofis: M2-242
+Dahili Telefon: Belirtilmemiş
+E-posta: kubra.uludag@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Marmara Üniversitesi (Devam Ediyor)
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Bilgisayar Müh. - Marmara Üniversitesi (Çift Anadal: Elekt. Elektronik Müh.)
+
+Akademisyen: Arş. Gör. Mehmet KAYA
+Unvan: Araştırma Görevlisi
+Ofis: M2-201
+Dahili Telefon: Belirtilmemiş
+E-posta: mehmet.kaya@marmara.edu.tr
+Eğitim Bilgileri:
+- PhD (Doktora): Bilgisayar Müh. - Marmara Üniversitesi (Devam Ediyor)
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi
+- BS (Lisans): Matematik Mühendisliği - Yıldız Teknik Üniversitesi
+
+Akademisyen: Arş. Gör. Büşra ARABACI
+Unvan: Araştırma Görevlisi
+Ofis: M2-201
+Dahili Telefon: Belirtilmemiş
+E-posta: busra.arabaci@marmara.edu.tr
+Eğitim Bilgileri:
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi (Devam Ediyor)
+- BS (Lisans): Bilgisayar Müh. - Bilkent Üniversitesi
+
+Akademisyen: Arş. Gör. Yusuf İbrahim MATUR
+Unvan: Araştırma Görevlisi
+Ofis: M2-201
+Dahili Telefon: Belirtilmemiş
+E-posta: yusuf.matur@marmara.edu.tr
+Eğitim Bilgileri:
+- MS (Yüksek Lisans): Bilgisayar Müh. - Marmara Üniversitesi (Devam Ediyor)
+- BS (Lisans): Makine Müh. - İstanbul Arel Üniversitesi
+
+Akademisyen: Arş. Gör. Semih AY
+Unvan: Araştırma Görevlisi
+Ofis: M2-239
+Dahili Telefon: Belirtilmemiş
+E-posta: semih.ay@marmara.edu.tr
+Eğitim Bilgileri:
+- MS (Yüksek Lisans): Veri Bilimi ve Yapay Zeka - Boğaziçi Üniversitesi (Devam Ediyor)
+- BS (Lisans): Matematik - Boğaziçi Üniversitesi
+
+Akademisyen: Arş. Gör. Rabia Eda PATOĞLU
+Unvan: Araştırma Görevlisi
+Ofis: M2-242
+Dahili Telefon: Belirtilmemiş
+E-posta: eda.patoglu@marmara.edu.tr
+Eğitim Bilgileri:
+- MS (Yüksek Lisans): Elektrik-Elektronik Müh. - Marmara Üniversitesi (Devam Ediyor)
+- BS (Lisans): Elektrik-Elektronik Müh. - Marmara Üniversitesi

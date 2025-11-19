@@ -1,0 +1,102 @@
+MARMARA ÜNİVERSİTESİ ÖNLİSANS VE LİSANS PROGRAMLARI YATAY GEÇİŞ YÖNERGESİ
+
+Bu yönerge; kurum içi, kurumlar arası (başka üniversiteden), yurt dışından ve merkezi yerleştirme puanıyla (MYP) yatay geçiş şartlarını, kontenjanlarını ve değerlendirme formüllerini kapsar.
+
+--- BİRİNCİ BÖLÜM: Amaç ve Tanımlar ---
+MADDE 1-4 (Genel): Bu yönerge Marmara Üniversitesi'ne yapılacak tüm yatay geçiş işlemlerini düzenler.
+- GANO: Genel Ağırlıklı Not Ortalaması.
+- İntibak Komisyonu: Geçiş yapan öğrencinin ders saydırma işlemlerini yapan komisyon.
+- Farklı Puan Türü: SAY, SÖZ, EA, DİL gibi sınav puan türlerini ifade eder.
+
+--- İKİNCİ BÖLÜM: Kurumlar Arası Yatay Geçiş (Başka Üniversiteden Geçiş) ---
+MADDE 5 (Kontenjanlar): YÖK tarafından belirlenen kontenjanlar dahilinde yapılır. İkinci, üçüncü ve dördüncü sınıflar için kontenjan açılabilir.
+
+MADDE 6 (Geçiş Esasları):
+(1) Önlisans ile lisans programları arasında yatay geçiş yapılamaz.
+(2) Hazırlık sınıfına, birinci sınıfın ilk yarıyılına ve son sınıfa (lisans için son iki yarıyıl) yatay geçiş yapılamaz.
+(5) İkinci öğretimden birinci öğretime geçiş, ancak sınıfın ilk %10'una girilmesi durumunda mümkündür. Birinci öğretimden ikinci öğretime geçiş serbesttir.
+(6) Açık/Uzaktan öğretimden örgün öğretime geçiş için GANO'nun 4.00 üzerinden en az 3.15 (100 üzerinden 80) olması veya öğrencinin giriş puanının, geçmek istediği bölümün taban puanına eşit/yüksek olması gerekir.
+
+MADDE 7 (Başvuru Şartları - Kurumlar Arası):
+(1) Öğrenci bir yükseköğretim kurumunda kayıtlı olmalıdır.
+(2) GANO Şartı: Öğrencinin not ortalaması 4.00 üzerinden en az 3.00 (100'lük sistemde 75) olmalıdır.
+(5) Başarısız Ders: Öğrencinin alttan dersi olmamalıdır, tüm dersleri başarmış olmalıdır.
+(6) Disiplin cezası almamış olmalıdır.
+(8) Yabancı Dil: Yabancı dille eğitim veren bölümlere geçişte Yabancı Dil Yeterlilik Belgesi şarttır.
+
+MADDE 10 (Değerlendirme Formülü - Kurumlar Arası):
+Adayların sıralaması şu formülle yapılır:
+Değerlendirme Puanı = (Adayın ÖSYS Puanı / Programın Taban Puanı) x 80 + (Adayın 100'lük GANO'su) x 20.
+*Yani ÖSYM puanı %80, Not Ortalaması %20 etkilidir.*
+
+--- ÜÇÜNCÜ BÖLÜM: Kurum İçi Yatay Geçiş (Bölüm Değiştirme) ---
+MADDE 12 (Kontenjan): Üniversite bünyesindeki fakülteler veya bölümler arası geçişler içindir.
+(6) Önlisans ile lisans arasında geçiş yapılamaz.
+(9) Öğrencinin başvurduğu yarıyıla kadar tüm dersleri almış ve başarmış olması (alttan dersinin olmaması) gerekir.
+
+MADDE 13 (Başvuru Şartları - Kurum İçi):
+(2) GANO Şartı: Öğrencinin genel not ortalaması en az 3.00 olmalıdır.
+(3) Taban Puan Şartı: Öğrencinin üniversiteye girdiği yıl aldığı puan, geçmek istediği bölümün o yılki taban puanından düşük olmamalıdır (Eşdeğer yurt içi diploma programlarının en düşük taban puanı şartı aranır).
+
+MADDE 16 (Değerlendirme Formülü - Kurum İçi):
+a) Birim İçi (Aynı Fakülte İçinde) Geçiş:
+Puan = (Adayın ÖSYS Puanı / Programın Taban Puanı) x 20 + (Adayın GANO'su / 4) x 80.
+*Aynı fakülte içinde not ortalaması %80 etkilidir.*
+
+b) Birimler Arası (Farklı Fakülteye) Geçiş:
+Puan = (Adayın ÖSYS Puanı / Programın Taban Puanı) x 30 + (Adayın GANO'su / 4) x 70.
+
+--- DÖRDÜNCÜ BÖLÜM: Yurt Dışından Yatay Geçiş ---
+MADDE 19 (Şartlar):
+- Üniversitenin YÖK tarafından tanınması gerekir.
+- Öğrencinin GANO'su en az 3.00 (100 üzerinden 75) olmalıdır.
+- Eğer öğrencinin puanı, Marmara Üniversitesi'ndeki bölümün taban puanına eşit veya yüksekse, ders başarısına bakılmaksızın (başarısız dersi olsa bile) geçiş başvurusu yapabilir.
+
+--- BEŞİNCİ BÖLÜM: Merkezi Yerleştirme Puanıyla Yatay Geçiş (Ek Madde-1) ---
+MADDE 24 (Kontenjan): Her sınıf için kontenjanın %30'u kadar yer ayrılır.
+
+MADDE 25 (Başvuru Şartları - Merkezi Puan):
+(2) Taban Puan Şartı: Öğrencinin üniversiteye kayıt olduğu yıl aldığı puan, geçmek istediği diploma programının o yılki taban puanına EŞİT veya ondan YÜKSEK olmalıdır.
+(4) Not Ortalaması ve Başarı: Bu geçiş türünde not ortalamasına (GANO) ve ders başarısına BAKILMAZ. Öğrenci sınıfta kalmış olsa bile puanı tutuyorsa geçiş yapabilir.
+(5) Bu haktan yararlanan öğrenci, daha sonra isterse eski bölümüne geri dönebilir (bir defaya mahsus).
+(6) Hazırlık sınıfı dahil tüm sınıflarda (1, 2, 3, 4) başvuru yapılabilir.
+
+MADDE 28 (Değerlendirme):
+- Başvurular sadece ÖSYM puanına göre, en yüksekten düşüğe doğru sıralanır.
+
+--- İntibak ve Muafiyet (Tüm Geçiş Türleri İçin) ---
+MADDE 11/17/23/29 (İntibak):
+- Geçiş yapan öğrencinin önceki okulunda aldığı dersler İntibak Komisyonu tarafından incelenir.
+- Uyumlu olan dersler sayılır (muaf edilir), kalan dersler alttan veya döneminden verilir.
+- Geçiş yapan öğrencinin öğrenim süresi, daha önce okuduğu süre hesaba katılarak belirlenir (Azami süreden düşülür).
+
+--- DÖRDÜNCÜ BÖLÜM: Yurt Dışından Yatay Geçiş Detayları ---
+MADDE 18 (Kontenjan):
+- Yurt dışı kontenjanı, kurumlar arası yatay geçiş kontenjanının yarısını aşamaz.
+- Aynı yurt dışı üniversitesinden gelen öğrenci sayısı, kontenjanın %15'ini geçemez.
+
+MADDE 19 (Başvuru Şartları - Yurt Dışı):
+(1) Yurt dışındaki üniversitenin YÖK tarafından tanınması ve programın eş değer olması şarttır.
+(2) Öğrencinin GANO'su 4.00 üzerinden en az 3.00 (100 üzerinden 75) olmalıdır.
+(3) Eğer öğrencinin ÖSYM puanı, Marmara Üniversitesi'ndeki bölümün taban puanına eşit veya yüksekse, ders başarısına bakılmaksızın (başarısız dersi olsa bile) geçiş başvurusu yapabilir.
+(5) Tıp, Hukuk, Mühendislik gibi "Başarı Sırası" aranan bölümler için öğrencinin ilgili yıldaki sıralama şartını (örn: ilk 50 bin) sağlaması zorunludur.
+(9) Yabancı dil şartını sağlayamayanlar geçiş yapamaz.
+
+MADDE 22 (Değerlendirme - Yurt Dışı):
+- Başvurular şu formülle değerlendirilir:
+  Değerlendirme Puanı = (Adayın ÖSYS Puanı / Programın Taban Puanı) x 80 + (Adayın 100'lük GANO'su) x 20.
+- Yetenek sınavıyla alan bölümler için: (Yetenek Puanı x 60) + (ÖSYS Puanı x 20) + (GANO x 20).
+
+--- ALTINCI BÖLÜM: Diğer Yükseköğretim Kurumlarından (Askeri/Polis) Geçiş ---
+MADDE 13:
+(1) Türk Silahlı Kuvvetleri (Harp Okulları) ve Polis Akademisi'ne bağlı kurumlarda okuyan öğrenciler, kendi özel kanunlarına ve bu yönergeye uygun olarak yatay geçiş yapabilirler.
+(2) Bu kurumlardan "başarısızlık" veya "disiplinsizlik" nedeniyle ilişiği kesilenler (atılanlar) yatay geçiş başvurusu yapamaz.
+(3) Disiplin dışı bir nedenle ilişiği kesilenler (örn: sağlık, kendi isteği), ilişik kesme tarihinden itibaren 2 yıl içinde başvurabilir.
+
+--- YEDİNCİ BÖLÜM: Özel Durumlar (Memur, Diplomat vb.) ---
+MADDE 30:
+(1) Kamu Görevlileri: Kamu kurumlarında çalışan memurların tayini çıkarsa; kendileri, eşleri ve çocukları, kontenjan şartı aranmaksızın yatay geçiş yapabilir.
+   - Şart: Girdikleri yıl aldıkları puanın, geçmek istedikleri bölümün taban puanından yüksek olması gerekir.
+   - Son sınıf veya son iki yarıyıl öğrencileri bu haktan yararlanamaz.
+(2) Yurt Dışı Görev Dönüşü: Annesi veya babası yurt dışında devlet hizmetinde çalışan ve görevi bitip dönen öğrencilerin (veya işçi çocuklarının kesin dönüşü), yabancı dil sınıfı hariç en az 1 yıl okumuş ve başarılı olmuşsa kontenjan dışı değerlendirilir.
+(3) Yabancı Diplomatlar: Türkiye'de görevli yabancı diplomatların çocukları, kontenjan şartı aranmaksızın Üniversite Yönetim Kurulu kararıyla kabul edilebilir.

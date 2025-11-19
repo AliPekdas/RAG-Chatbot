@@ -1,0 +1,180 @@
+Güncel Müfredat: Detaylı Ders Bilgileri   
+
+--- 1. DÖNEM ---
+1. ATA121 Atatürk İlkeleri ve İnkılap Tarihi I (1. Dönem) Zorunlu 2 0 2,00 2,00
+2. MBG1201 Introduction to Modern Biology (1. Dönem) Zorunlu 3 0 5,00 5,00
+3. CSE1200 Introduction to Computer Engineering (1. Dönem) Zorunlu 3 0 4,00 4,00
+4. CSE1241 Computer Programming I (1. Dönem) Zorunlu 3 2 6,00 6,00
+5. MATH1001 Calculus I (1. Dönem) Zorunlu 4 0 6,00 6,00
+6. PHYS1101 Physics I (1. Dönem) Zorunlu 3 0 4,00 4,00
+7. PHYS1103 Physics Lab I (1. Dönem) Zorunlu 0 2 2,00 2,00
+8. TRD121 Türk Dili I (1. Dönem) Zorunlu 2 0 2,00 2,00
+
+--- 2. DÖNEM ---
+1. ATA122 Atatürk İlkeleri ve İnkılap Tarihi II (2. Dönem) Zorunlu 2 0 2,00 2,00
+2. CSE1242 Computer Programming II (2. Dönem) Zorunlu 3 2 6,00 6,00
+3. MATH1002 Calculus II (2. Dönem) Zorunlu 4 0 6,00 6,00
+4. MATH2256 Linear Algebra for Computer Engineering (2. Dönem) Zorunlu 3 0 5,00 5,00
+5. PHYS1102 Physics II (2. Dönem) Zorunlu 3 0 4,00 4,00
+6. PHYS1104 Physics Lab II (2. Dönem) Zorunlu 0 2 2,00 2,00
+7. TRD122 Türk Dili II (2. Dönem) Zorunlu 2 0 2,00 2,00
+8. NTExxx Non-Technical Elective 1 (2. Dönem) Seçmeli 2 0 3,00 3,00
+
+--- 3. DÖNEM ---
+1. CSE2023 Discrete Computational Structures (3. Dönem) Zorunlu 3 0 6,00 6,00
+2. CSE2225 Data Structures (3. Dönem) Zorunlu 3 2 7,00 7,00
+3. ECON2004 Engineering Economy (3. Dönem) Zorunlu 2 0 4,00 4,00
+4. EE2031 Electric Circuits (3. Dönem) Zorunlu 3 0 5,00 5,00
+5. MATH2055 Differential Equations (3. Dönem) Zorunlu 3 0 4,00 4,00
+6. MATH2059 Numerical Methods (3. Dönem) Zorunlu 3 0 4,00 4,00
+
+--- 4. DÖNEM ---
+1. CSE2246 Analysis of Algorithms (4. Dönem) Zorunlu 3 2 6,00 6,00
+2. CSE2138 Systems Programming (4. Dönem) Zorunlu 3 2 7,00 7,00
+3. CSE2260 Principles of Programming Languages (4. Dönem) Zorunlu 3 2 6,00 6,00
+4. EE2032 Electronics (4. Dönem) Zorunlu 2 2 5,00 5,00
+5. STAT2253 Introduction to Probability and Statistics (4. Dönem) Zorunlu 3 0 5,00 5,00
+
+--- 5. DÖNEM ---
+1. CSE3000 Summer Practice I (5. Dönem) Zorunlu 0 0 10,00 10,00
+2. CSE3215 Digital Logic Design (5. Dönem) Zorunlu 3 2 6,00 6,00
+3. CSE3033 Operating Systems (5. Dönem) Zorunlu 3 2 7,00 7,00
+4. CSE3055 Database Systems (5. Dönem) Zorunlu 3 2 7,00 7,00
+5. CSE3063 Object-Oriented Software Design (5. Dönem) Zorunlu 3 0 5,00 5,00
+6. IE3081 Modeling and Discrete Simulation (5. Dönem) Zorunlu 3 0 4,00 4,00
+
+--- 6. DÖNEM ---
+1. CSE3038 Computer Organization (6. Dönem) Zorunlu 3 2 7,00 7,00
+2. CSE3044 Software Engineering (6. Dönem) Zorunlu 3 2 7,00 7,00
+3. CSE3048 Introduction to Signals and Systems (6. Dönem) Zorunlu 3 0 5,00 5,00
+4. CSE3264 Formal Languages and Automata Theory (6. Dönem) Zorunlu 3 0 5,00 5,00
+5. IE3235 Operations Research (6. Dönem) Zorunlu 3 0 4,00 4,00
+6. COM2202 Technical Comm. and Entrepreneurship (6. Dönem) Zorunlu 2 0 2,00 2,00
+
+--- 7. DÖNEM ---
+1. CSE4000 Summer Practice II (7. Dönem) Zorunlu 0 0 10,00 10,00
+2. CSE4074 Computer Networks (7. Dönem) Zorunlu 3 0 5,00 5,00
+3. CSE4219 Principles of Embedded System Design (7. Dönem) Zorunlu 3 2 6,00 6,00
+4. CSE4297 Engineering Project I (7. Dönem) Zorunlu 0 2 5,00 5,00
+5. ISG121 İş Sağlığı ve Güvenliği I (7. Dönem) Zorunlu 2 0 2,00 2,00
+6. CSE4288 Introduction to Machine Learning (7. Dönem) Zorunlu 3 0 5,00 5,00
+7. UE University Elective (7. Dönem) Seçmeli 2 0 3,00 3,00
+8. TExxx Technical Elective 1 (7. Dönem) Seçmeli 3 0 5,00 5,00
+
+--- 8. DÖNEM ---
+1. CSE4298 Engineering Project II (8. Dönem) Zorunlu 0 2 5,00 5,00
+2. ISG122 İş Sağlığı ve Güvenliği II (8. Dönem) Zorunlu 2 0 2,00 2,00
+3. FTExxx Faculty Technical Electives (8. Dönem) Seçmeli 3 0 5,00 5,00
+4. NTExxx Non-Technical Elective 2 (8. Dönem) Seçmeli 2 0 3,00 3,00
+5. TExxx Technical Elective 2 (8. Dönem) Seçmeli 3 0 5,00 5,00
+6. TExxx Technical Elective 3 (8. Dönem) Seçmeli 3 0 5,00 5,00
+7. TExxx Technical Elective 4 (8. Dönem) Seçmeli 3 0 5,00 5,00
+
+--- TEKNİK SEÇMELİ DERSLER (Technical Electives - TE) ---
+1. CSE4026 Introduction to Robotics and Control Theory Seçmeli 3 0 5,00 5,00
+2. CSE4032 Introduction to Distributed Systems Seçmeli 3 0 5,00 5,00
+3. CSE4034 Advanced Unix Programming Seçmeli 3 0 5,00 5,00
+4. CSE4038 Introduction to Parallel Processing Seçmeli 3 0 5,00 5,00
+5. CSE4040 Cloud Computing Seçmeli 3 0 5,00 5,00
+6. CSE4044 Software Project Management Seçmeli 3 0 5,00 5,00
+7. CSE4053 Information Systems: Analysis and Design Seçmeli 3 0 5,00 5,00
+8. CSE4056 Management of Information Systems Seçmeli 3 0 5,00 5,00
+9. CSE4057 Information Systems Security Seçmeli 3 0 5,00 5,00
+10. CSE4058 Fundamentals of Electronic Commerce Seçmeli 3 0 5,00 5,00
+11. CSE4059 Internet Programming Seçmeli 3 0 5,00 5,00
+12. CSE4061 Compiler Design Seçmeli 3 0 5,00 5,00
+13. CSE4062 Introduction to Data Science and Analytics Seçmeli 3 0 5,00 5,00
+14. CSE4063 Fundamentals of Data Mining Seçmeli 3 0 5,00 5,00
+15. CSE4065 Introduction to Computational Genomics Seçmeli 3 0 5,00 5,00
+16. CSE4066 Introduction to Cryptography Seçmeli 3 0 5,00 5,00
+17. CSE4067 Introduction to Blockchain Programming Seçmeli 3 0 5,00 5,00
+18. CSE4070 Software Frameworks Seçmeli 3 0 5,00 5,00
+19. CSE4075 Wireless and Mobile Networks Seçmeli 3 0 5,00 5,00
+20. CSE4077 Advanced Data Structures Seçmeli 3 0 5,00 5,00
+21. CSE4078 Introduction to Natural Language Processing Seçmeli 3 0 5,00 5,00
+22. CSE4079 Introduction to Deep Learning Seçmeli 3 0 5,00 5,00
+23. CSE4082 Artificial Intelligence Seçmeli 3 0 5,00 5,00
+24. CSE4083 Computer Graphics Seçmeli 3 0 5,00 5,00
+25. CSE4084 Multimedia Systems Seçmeli 3 0 5,00 5,00
+26. CSE4085 Human Computer Interaction Seçmeli 3 0 5,00 5,00
+27. CSE4086 Mobile Device Programming Seçmeli 3 0 5,00 5,00
+28. CSE4217 Microprocessors Seçmeli 3 0 5,00 5,00
+29. CSE4093 Special Topics in Computer Engineering I Seçmeli 3 0 5,00 5,00
+30. CSE4094 Special Topics in Computer Engineering II Seçmeli 3 0 5,00 5,00
+31. CSE4095 Special Topics in Computer Engineering III Seçmeli 3 0 5,00 5,00
+32. CSE4096 Special Topics in Computer Engineering IV Seçmeli 3 0 5,00 5,00
+
+--- FAKÜLTE TEKNİK SEÇMELİ DERSLER (Faculty Technical Electives - FTE) ---
+1. BIOE4072 Planning and Management of Research Seçmeli 3 0 5,00 5,00
+2. CHE4060 Cost Management in Chemical Industries Seçmeli 3 0 5,00 5,00
+3. CHE4068 Financial Engineering Seçmeli 3 0 5,00 5,00
+4. CHE4080 Chemical Engineering for Sustainable Biosphere Seçmeli 3 0 5,00 5,00
+5. EE4056 Introduction to Information Systems Management Seçmeli 3 0 5,00 5,00
+6. EE4062 Introduction to Image Processing Seçmeli 3 0 5,00 5,00
+7. ENVE4062 Energy and the Environment Seçmeli 3 0 5,00 5,00
+8. ENVE4063 Construction Materials for Environmental Engineering Seçmeli 3 0 5,00 5,00
+9. IE4055 Design of Experiments Seçmeli 3 0 5,00 5,00
+10. IE4087 Introduction to Total Quality Management Seçmeli 3 0 5,00 5,00
+11. ME3004 Mathematical Modeling in Mechanical Engineering Seçmeli 3 0 5,00 5,00
+12. ME3022 Mechatronics Seçmeli 3 0 5,00 5,00
+13. ME4018 Introduction to Robotics Seçmeli 3 0 5,00 5,00
+14. ME4022 Control Systems Seçmeli 3 0 5,00 5,00
+15. ME4033 Designing Quality Products Seçmeli 3 0 5,00 5,00
+16. ME4051 Automotive Engineering Seçmeli 3 0 5,00 5,00
+17. MGT4076 Quality Management System in Automotive Industry Seçmeli 3 0 5,00 5,00
+18. MGT4082 Advanced innovative Design Management for Entrepreneurship Seçmeli 3 0 5,00 5,00
+19. MGT4084 Innovation and New Product Development Management Seçmeli 3 0 5,00 5,00
+20. MGT4086 Managing Engineering and Technology Seçmeli 3 0 5,00 5,00
+21. MGT4088 Project Management for Engineers Seçmeli 3 0 5,00 5,00
+22. MSE4073 Materials Engineering Economics and Plant Design Seçmeli 3 0 5,00 5,00
+23. MSE4074 Total Quality Management in Materials Engineering Seçmeli 3 0 5,00 5,00
+
+--- TEKNİK OLMAYAN SEÇMELİ DERSLER (Non-Technical Electives - NTE) ---
+1. BUS1003 Entrepreneurship and Innovation Seçmeli 2 0 3,00 3,00
+2. BUS1004 Strategic Entrepreneurship Seçmeli 2 0 3,00 3,00
+3. BUS2005 International Business Seçmeli 2 0 3,00 3,00
+4. CAS1001 Self Management Seçmeli 2 0 3,00 3,00
+5. CAS1010 Our Biosphere Seçmeli 2 0 3,00 3,00
+6. CAS1061 Geometric Origami Seçmeli 2 0 3,00 3,00
+7. CAS2001 Energy for Physical Activity Seçmeli 2 0 3,00 3,00
+8. CAS2002 Human Performance and Nutrition Seçmeli 2 0 3,00 3,00
+9. CAS2003 Cardiopulmonary Resuscitation and First Aid Basics Seçmeli 2 0 3,00 3,00
+10. CAS2004 Interpersonal Relations and Communication Seçmeli 2 0 3,00 3,00
+11. CAS2005 Trekking and Orienteering Seçmeli 2 0 3,00 3,00
+12. CAS3001 Earthquake and Rescue Principles Seçmeli 2 0 3,00 3,00
+13. CAS3044 Positive Thinking Seçmeli 2 0 3,00 3,00
+14. COMM2060 Communication Models and Techniques Seçmeli 2 0 3,00 3,00
+15. FNCE3003 Investment Planning Seçmeli 2 0 3,00 3,00
+16. HR1013 Career Development Seçmeli 2 0 3,00 3,00
+17. HR4001 Career Orientation Seçmeli 2 0 3,00 3,00
+18. HSS3002 Ethics in Engineering and Science Seçmeli 2 0 3,00 3,00
+19. IKT1054 Industrial and Economic Sociology Seçmeli 2 0 3,00 3,00
+20. INF1001 Information Literacy in Engineering Seçmeli 2 0 3,00 3,00
+21. LAW2004 Labor Law Seçmeli 2 0 3,00 3,00
+22. MAN1001 Principles of Managerial Economics & Financial Management Seçmeli 2 0 3,00 3,00
+23. MGT1021 Design, Innovation and Entrepreneurship Seçmeli 2 0 3,00 3,00
+24. MGT3082 Creativity And Innovation Management Seçmeli 2 0 3,00 3,00
+25. MRK3082 Integrated Marketing Communication Seçmeli 2 0 3,00 3,00
+26. MRK3084 Brand Creation/Branding Seçmeli 2 0 3,00 3,00
+27. NTE1002 Effects of Human Behaviour on Environment Seçmeli 2 0 3,00 3,00
+28. NTE1003 The Culture of Radiation Safety Seçmeli 2 0 3,00 3,00
+29. NTE1004 World Cultures Seçmeli 2 0 3,00 3,00
+30. NTE1006 Basic Principles of Accessibility in Informatics and Technology Seçmeli 2 0 3,00 3,00
+31. NTE1008 Cinema Seçmeli 2 0 3,00 3,00
+32. NTE1010 Introduction to Finance for Engineers Seçmeli 2 0 3,00 3,00
+33. NTE1011 Business Communication Seçmeli 2 0 3,00 3,00
+34. NTE1012 Introduction to Corporate Governance for Engineers Seçmeli 2 0 3,00 3,00
+35. NTE1013 Business Intelligence for Managers Seçmeli 2 0 3,00 3,00
+36. NTE1014 Introduction to Strategic Human Resources Management Seçmeli 2 0 3,00 3,00
+37. NTE1015 Introduction to Leadership & Management for Engineers Seçmeli 2 0 3,00 3,00
+38. NTE1016 Introduction to Strategy for Engineers Seçmeli 2 0 3,00 3,00
+39. OB2040 Industrial Psychology Seçmeli 2 0 3,00 3,00
+40. OB2041 Behavioral Sciences for Engineers Seçmeli 2 0 3,00 3,00
+41. OB3043 Organizational Behaviour Seçmeli 2 0 3,00 3,00
+42. SOC3082 Environmental Sociology Seçmeli 2 0 3,00 3,00
+İndirilebilir Linkler
+2020 sonrası kayıt yaptırmış öğrenciler için
+2015 -2020 arası kayıt yaptırmış öğrenciler için
+2013 - 2015 arası kayıt yaptırmış ögrenciler için
+2013 Öncesi kayıt yaptırmış öğrenciler için
+Bu sayfa Computer Engineering tarafından en son 13.09.2025 12:54:16 tarihinde güncellenmiştir.

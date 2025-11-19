@@ -1,0 +1,30 @@
+Anasayfa/Lisans Programı/YAP Müfredatı
+MARMARA ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ TEMEL DERS LİSTESİ VE KREDİLERİ
+
+--- 1. YARIYIL (Semester 1) ---
+1. CSE1241 Computer Programming I (T:3, U:2, Kredi:6, ECTS:6)
+2. MATH1001 Calculus I (T:4, U:0, Kredi:6, ECTS:6)
+
+--- 2. YARIYIL (Semester 2) ---
+1. CSE1242 Computer Programming II (T:3, U:2, Kredi:6, ECTS:6)
+2. MATH1002 Calculus II (T:4, U:0, Kredi:6, ECTS:6)
+
+--- 3. YARIYIL (Semester 3) ---
+1. CSE2023 Discrete Computational Structures (T:3, U:0, Kredi:6, ECTS:6)
+2. CSE2225 Data Structures (T:3, U:2, Kredi:7, ECTS:7)
+
+--- 4. YARIYIL (Semester 4) ---
+1. CSE2246 Analysis of Algorithms (T:3, U:2, Kredi:6, ECTS:6)
+2. CSE2138 Systems Programming (T:3, U:2, Kredi:7, ECTS:7)
+
+--- 5. YARIYIL (Semester 5) ---
+1. CSE3033 Operating Systems (T:3, U:2, Kredi:7, ECTS:7)
+2. CSE3055 Database Systems (T:3, U:2, Kredi:7, ECTS:7)
+3. CSE3063 Object-Oriented Software Design (T:3, U:0, Kredi:5, ECTS:5)
+
+--- 6. YARIYIL (Semester 6) ---
+1. CSE3044 Software Engineering (T:3, U:2, Kredi:7, ECTS:7)
+
+--- 7. YARIYIL (Semester 7) ---
+1. CSE4074 Computer Networks (T:3, U:0, Kredi:5, ECTS:5)
+2. TExxx Technical Elective - 1 (T:3, U:0, Kredi:5, ECTS:5)

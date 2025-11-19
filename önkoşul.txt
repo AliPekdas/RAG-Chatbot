@@ -1,0 +1,109 @@
+MARMARA ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ DERS ÖN KOŞUL AĞACI (PREREQUISITE TREE)
+
+Bu belge, derslerin birbirine olan bağımlılıklarını (ön koşullarını) içerir. Bir dersi almak için, belirtilen ön koşul dersinden başarılı olunması gerekir.
+
+--- 1. SINIF (FRESHMAN) BAĞLANTILARI ---
+Ders: MATH1002 Calculus II
+Ön Koşulu: MATH1001 Calculus I
+
+Ders: CSE1242 Computer Programming II
+Ön Koşulu: CSE1241 Computer Programming I
+
+Ders: PHYS1102 Physics II
+Ön Koşulu: PHYS1101 Physics I
+
+--- 2. SINIF (SOPHOMORE) BAĞLANTILARI ---
+Ders: MATH2059 Numerical Methods
+Ön Koşulu: MATH1002 Calculus II
+
+Ders: CSE2225 Data Structures
+Ön Koşulu: CSE1242 Computer Programming II
+
+Ders: CSE2023 Discrete Computational Structures
+Ön Koşulu: CSE1241 Computer Programming I
+
+Ders: EE2031 Electric Circuits
+Ön Koşulu: PHYS1102 Physics II
+
+Ders: CSE2246 Analysis of Algorithms
+Ön Koşulu 1: CSE2225 Data Structures
+Ön Koşulu 2: CSE2023 Discrete Computational Structures
+
+Ders: CSE2260 Principles of Programming Languages
+Ön Koşulu: CSE2225 Data Structures
+
+Ders: EE2032 Electronics
+Ön Koşulu: EE2031 Electric Circuits
+
+Ders: CSE2138 Systems Programming
+Ön Koşulu: CSE1242 Computer Programming II
+
+Ders: MATH2055 Differential Equations
+Ön Koşulu: MATH1002 Calculus II
+
+--- 3. SINIF (JUNIOR) BAĞLANTILARI ---
+Ders: CSE3055 Database Systems
+Ön Koşulu: CSE2225 Data Structures
+
+Ders: CSE3033 Operating Systems
+Ön Koşulu 1: CSE2138 Systems Programming
+Ön Koşulu 2: CSE2023 Discrete Computational Structures
+
+Ders: CSE3063 Object-Oriented Software Design
+Ön Koşulu: CSE1242 Computer Programming II
+
+Ders: CSE3215 Digital Logic Design
+Ön Koşulu: EE2032 Electronics
+
+Ders: IE3081 Modeling and Discrete Simulation
+Ön Koşulu 1: STAT2253 Probability and Statistics for Comp. Eng.
+Ön Koşulu 2: MATH2256 Linear Algebra for Comp. Eng.
+
+Ders: CSE3044 Software Engineering
+Ön Koşulu 1: CSE3055 Database Systems
+Ön Koşulu 2: CSE3063 Object-Oriented Software Design
+
+Ders: CSE3264 Formal Languages and Automata Theory
+Ön Koşulu: CSE2023 Discrete Computational Structures
+
+Ders: CSE3038 Computer Organization
+Ön Koşulu: CSE3215 Digital Logic Design
+
+Ders: CSE3048 Introduction to Signals and Systems
+Ön Koşulu: MATH2055 Differential Equations
+
+Ders: IE3235 Operations Research
+Ön Koşulu: MATH2256 Linear Algebra for Comp. Eng.
+
+--- 4. SINIF (SENIOR) BAĞLANTILARI ---
+Ders: CSE4297 Engineering Project I (Bitirme Projesi 1)
+Ön Koşulu 1: CSE2246 Analysis of Algorithms
+Ön Koşulu 2: CSE3044 Software Engineering
+Ön Koşulu 3: CSE3033 Operating Systems
+Ön Koşulu 4: CSE3038 Computer Organization
+
+Ders: CSE4298 Engineering Project II (Bitirme Projesi 2)
+Ön Koşulu: CSE4297 Engineering Project I
+
+Ders: CSE4074 Computer Networks
+Ön Koşulu: CSE3033 Operating Systems
+
+Ders: CSE4219 Principles of Embedded System Design
+Ön Koşulu: CSE3038 Computer Organization
+
+Ders: CSE4288 Introduction to Machine Learning
+Ön Koşulu 1: MATH2256 Linear Algebra for Comp. Eng.
+Ön Koşulu 2: STAT2253 Probability and Statistics for Comp. Eng.
+
+--- TEKNİK SEÇMELİ DERS (TECHNICAL ELECTIVE) ÖN KOŞULLARI ---
+Ders: CSE4075 Wireless and Mobile Networks
+Ön Koşulu: CSE4074 Computer Networks
+
+Ders: CSE4034 Advanced Unix Programming
+Ön Koşulu: CSE3033 Operating Systems
+
+Ders: CSE4061 Compiler Design
+Ön Koşulu: CSE3264 Formal Languages and Automata Theory
+
+Ders: CSE4217 Microprocessors
+Ön Koşulu: CSE3038 Computer Organization

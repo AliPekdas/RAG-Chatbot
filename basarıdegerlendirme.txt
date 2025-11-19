@@ -1,0 +1,45 @@
+MARMARA ÜNİVERSİTESİ SINAV VE BAŞARI DEĞERLENDİRME YÖNERGESİ
+
+Bu yönerge, Mühendislik Fakültesi öğrencilerinin başarı notlarının nasıl hesaplandığını, sınav ağırlıklarını ve harf notu dönüşüm tablolarını içerir.
+
+--- TANIMLAR ---
+- Bağıl Değerlendirme Sistemi (BDS): Öğrencinin başarısının sınıf ortalamasına göre değerlendirilmesi.
+- Yarıyıl Sonu Sınavı Alt Limiti (YSSL): Finalden alınması gereken en düşük not.
+- Başarı Notu Alt Limiti (BNAL): Dersi geçmek için gereken en düşük ortalama not.
+- Bağıl Değerlendirmeye Katma Limiti (BDKL): İstatistiksel hesaba katılacak notların alt sınırı.
+
+--- MÜHENDİSLİK FAKÜLTESİ SINAV AĞIRLIKLARI VE LİMİTLERİ ---
+Tablo 1'e göre Mühendislik Fakültesi için geçerli kurallar şunlardır:
+1. Sınav Ağırlıkları:
+   - Yarıyıl İçi Değerlendirmesi (Vize/Ödev vb.): %60
+   - Yarıyıl Sonu Sınavı (Final): %40
+   *Not: Vize notunun ağırlığı finalden fazladır.*
+
+2. Değerlendirme Yetkisi:
+   - Yarıyıl içi değerlendirme araçlarını (Ödev, Quiz vb.) belirleme yetkisi Öğretim Üyesine (ÖÜ/G) verilmiştir.
+
+3. Başarı Alt Limitleri (BDS İçin):
+   - YSSL (Final Barajı): 35 (100 üzerinden)
+     *Yani finalden 35'in altında alan öğrenci doğrudan kalır (FF).*
+   - BNAL (Ortalama Barajı): 35
+   - BDKL (Çan Eğrisine Katılma Limiti): 20
+     *Yani 20'nin altındaki notlar ortalamayı düşürmesin diye hesaplamaya katılmaz.*
+
+--- BAŞARI NOTU HESAPLAMA ---
+MADDE 5: Başarı notu, yarıyıl içi notunun %60'ı ile final notunun %40'ının toplanmasıyla bulunur. Sonuç tam sayıya yuvarlanır (0.5 ve üstü yukarı, altı aşağı).
+
+--- BAŞARI DEĞERLENDİRME YÖNTEMİ ---
+Mühendislik Fakültesi'nde başarı değerlendirme yöntemi (BDS veya DDS) Öğretim Üyesi (ÖÜ/G) tarafından belirlenir. Dönem başında ders izlencesinde (syllabus) ilan edilir.
+
+--- NOT DÖNÜŞÜM TABLOLARI ---
+(Dörtlük Sistemdeki Notların 100'lük Sistemdeki Karşılığı - YÖK ve Marmara Dönüşümü)
+
+Önemli Not Karşılıkları (Örnekler):
+- 4.00 = 100
+- 3.50 = 87.50
+- 3.00 = 82.50
+- 2.50 = 77.50
+- 2.00 = 70.00 (Mezuniyet/Geçme Sınırı)
+- 1.50 = 60.00
+- 1.00 = 52.50 (Marmara içi) / 53.33 (YÖK dışı)
+Not: GANO hesaplanırken Marmara Üniversitesi'nin kendi tablosu (Tablo 12) kullanılır.

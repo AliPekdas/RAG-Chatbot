@@ -1,0 +1,41 @@
+Lisans - Mühendislik Fakültesi - Bilgisayar Mühendisliği (İngilizce)
+Program Bilgileri
+Program Tanımları
+Kuruluş
+Bilgisayar Mühendisliği bölümü, Mühendislik Fakültesiyle birlikte 27 Temmuz 1987 yılında kurulmuştur. İlk öğrencilerini 1990-1991 akademik yılında almıştır ve 1994 yılında ise ilk lisans mezunlarını vermiştir. Bölümümüzde, Fen Bilimleri Enstitüsü bünyesinde 1993 yılından beri yüksek lisans eğitimi ve 2011 yılından beri doktora eğitimi verilmektedir.
+
+Kazanılan Derece
+Bilgisayar Mühendisliğinin programında öğrencilerimiz temel bilim ve mühendislik bilimleri dersleri ile mühendislik tasarımı ve zorunlu bölüm derslerinin yanı sıra, kendilerini bireysel yetenekleri doğrultusunda yönlendirebilecekleri sosyal, hukuk, yönetim ve finans alanlarında verilen seçmeli dersleri alabilme olanaklarına sahiptirler, ve derslerde eğitim İngilizce olarak yapılmaktadır. Programda akademik olarak başarılı olan öğrencilerimiz "Bilgisayar Mühendisliği alanında Lisans Diploması" alırlar.
+
+Kabul ve Kayıt Koşulları
+Bölümümüze ÖSYM'nin hır yıl yurtgenelinde ve Kıbrısta yaptığı sınav sonucunda yeterli sayısal puanı alan her öğrenci belirlenen kontenjan dahilinde kayıt yaptırabilir. Bölümümüz YÖK'ün ve Üniversitemizin lisans programlarına yurt dışından öğrenci kabul koşullarını sağlayan öğrencileri belirlenen kontenjan dahilinde almaktadır. Bölümünmüzün eğitim dili İngiliz’cedir. Lisan seviyesi eğitime yeterli olmayan öğrencilerimiz Yabancı Diller Bölümünde hazırlık programına katılırlar. Bölümümüzün eğitim süresi dört yıldır.
+
+Önceki Öğrenmenin (formal, in-formal, non-formal) Tanınması Hakkında Kurallar
+Türk Yüksek öğretim kurumlarında önceki formal (örgün) öğrenmenin tanınması dikey , yatay ve ünversite içindeki geçişler ; Yüksek Öğrenim Kurulu'nun belirlemiş olduğu "YÜKSEKÖĞRETİM KURUMLARINDA ÖNLİSANS VE LİSANS DÜZEYİNDEKİ PROGRAMLAR ARASINDA GEÇİŞ, ÇİFT ANADAL ,YANDAL İLE KURUMLAR ARASI KREDİ TRANSFERİ YAPILMASI ESASLARINA İLİŞİKİN YÖNETMELİK" kapsamında gerçekleşmektedir.
+
+Yeterlilik Koşulları ve Kuralları
+Bölümümüzün eğitim dili İngiliz’cedir. Lisan seviyesi eğitime yeterli olmayan öğrencilerimiz Yabancı Diller Bölümünde hazırlık programına katılırlar. Bölümümüzün eğitim süresi dört yıldır. Bölüm eğitim planında yer alan tüm dersleri ve stajları yaparak 240 AKTS kredisini tamamlamak mezuniyet için yeterlidir.
+
+Program Profili
+Mühendisliği, mühendislik biliminin bilgisayar sistemlerini geliştirmekle ilgilenen dalıdır. Çoğu zaman bu sistemlerin çalışmasındaki anahtar bileşen, yazılımlardır. Bilgisayar teknolojisindeki hızlı değişimler, sadece bu alanın temel bilgilerini kavramış mühendisler değil aynı zamanda alanın gerektirdiği şekilde sürekli kendini geliştirebilen ve yenileyebilen bireyler yetiştirmemizi gerekli kılmaktadır. Öğrencilerimize; karmaşık sistemleri anlamalarına, ve bu sistemlerin performanslarını iyileştirecek en uygun çözümleri tasarlayıp uygulamaya koymalarına imkan tanıyacak beceriler kazandırmaya çalışıyoruz. Bilgisayar Mühendisliği Bölümü’nde, araştırmayı akademik ortamın bir parçası olarak görüyoruz. Bölümümüzün araştırma faaliyetleri; yazılım mühendisliği, parallel hesaplama, mikroişlemci tasarımı, görüntü işleme ve veri madenciliği üzerine yoğunlaşmaktadır.
+
+Mezunların İstihdam Profilleri (örneklerle)
+Mezunlarımız aldıkları nitelikli eğitim sonucunda gerek yurt içi ve gereksede yurt dışında çok rahat istihdam olanakları bulmaktadırlar. Sektörel çalışma alanları arasında Yazılım Geliştirme Şirketleri, Telekom Operatörleri, Teknoloji Altyapı Şirketleri, Finans Kurumları, Araştırma Geliştirme Kurumları / Departmanları, Paket Yazılım Dağıtıcıları ve Uygulamacıları, Teknoloji Danışmanlık ve Uygulama Şirketleri, Üretim Şirketleri-Bilgi Teknolojileri Departmanı, Hizmet Şirketleri-Bilgi Teknolojileri Departmanı, Devlet Kurumları-Bilgi Teknolojileri Departmanı bulunmaktadır. Çalışma hayatının yanısıra Türkiye'nin önde gelen üniversitelerinde, ve ABD ve Almanya başta olmak üzere farklı ülkelerde hem yüksek eğitimlerine hemde iş hayatlarına devam etmektedirler.
+
+Üst Derece Programlarına Geçiş
+Bilgisayar Mühendisliğinin programından gerekli şartları tamamlayarak mezun olan öğrencilerimiz Lisans üstü eğitim için yapılan (ALES ,ÜDS ,KPDS ) sınavlarda aldıkları sonuçlara bağlı olarak müracat ettikleri kurumların yeterlilik şartlarını sağladıkları durumlarda alanları ve alandışı tezli veya tezsiz yüksek lisans programlarına veya doktora programlarına kabul edilebilirler.
+
+Sınavlar, Ölçme ve Değerlendirme
+Bölümümüzde eğitim açısından en yüksek standartlar uygulanmaktadır. Öğrenciler hemen her derste, ağırlıklı olarak iki ara sınav ve bir final sınavı üzerinden değerlendirilmektedir. Bu ana unsurlara ek olarak, değerlendirmelerde yaygın olarak proje, quiz, ödev sonuçları ile laboratuvar basarıları da dikkate alınmaktadır. Öğrencilerin ders geçme notu, hemen tüm derslerde bağıl değerlendirme (curve) sistemine göre saptanmaktadır. Bu saptamada, sınıf ortalaması ile öğretim üyesinin beklentisi, yaklasık es ağırlıkta rol oynamaktadır.
+
+Mezuniyet Koşulları
+Programdan mezun olabilmek için 144 kredi, 163 saat ve belirlenen 48 dersten başarılı olmak gerekir. Değerlendirmenin harfli sisteme göre yapıldığı fakültemizde, genel ortalaması 4.00 üzerinden 2.00’nin altında olan öğrenci mezun olamamaktadır. Bilgisayar Mühendisliği Programında da aynı değerlendirme sistemi uygulanacaktır. Altışar haftalık iki yaz stajı zorunludur. Son sınıf programında yer alan CSE 497 ENGINEERING PROJECT I ve CSE 498 ENGINEERING PROJECT II son sınıf bitirme ödevi niteliğindeki proje derslerinin gereği, bir tez yazma zorunluluğu vardır.
+
+Çalışma Şekli (Tam Zamanlı, e-öğrenme )
+Tam zamanlı
+
+Adres ve İletişim Bilgileri (Program Başkanı, AKTS/DS Koordinatörü)
+Marmara Universitesi Muhendislik Fakültesi Bilgisayar Muhendisligi Bolumu Goztepe Kampusu Kadikoy 34722 - ISTANBUL
+
+Bölüm Olanakları
+İki adet PC laboratuvarı, Linux Laboratuvarı, Robotik laboratuvarı, Elektronik laboratuvarları ve araştırma laboratuvarları

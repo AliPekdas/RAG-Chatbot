@@ -1,0 +1,349 @@
+Anasayfa/Lisans Programı/Staj
+Bilgisayar Mühendisliği > Staj
+
+   A) TEMEL BİLGİLER
+
+    A.1) Öğrencilerimizin sektörü tanımaları, meslek tecrübelerini geliştirmeleri, bilgisayar mühendisliğinin farklı alanlarındaki uygulama ve iş ortamını deneyimleme, derslerde öğrendikleri bilgileri işyerinde uygulama ve test etme, üniversite-sanayi işbirliğini geliştirme, iş hayatına ilk adımlarını atmaları hedefleriyle staj yapmaları amaçlanmaktadır.
+
+    A.2) Öğrencilerin eğitimleri sırasında en az 60 iş günü staj yapmaları gerekir.
+
+    A.3) Staj Dersleri
+
+        A.3.a) Müfredatımızda iki adet staj dersi vardır:
+
+            (i) CSE3000 Summer Practice I (Yaz Stajı I)
+
+            (ii) CSE4000 Summer Practice II (Yaz Stajı II)
+
+        A.3.b) Staj dersleri; S (Satisfactory) veya U (Unsatisfactory) harfli başarı notlarıyla, başarılı veya başarısız şeklinde notlandırılır.
+
+        A.3.c) Mezun olabilmek için her iki dersin başarıyla tamamlanması gerekir.
+
+        A.3.d) Bu dersler isteğe bağlı değildir, zorunludur.
+
+    A.4) Staj Süreci
+
+        A.4.a) Staj süreci; başvuru, yürütme ve değerlendirme olmak üzere birbirini takip eden üç alt süreç üzerinden gerçekleştirilir.
+
+        A.4.b) Staj başvuru süreci
+
+            (i) Staj yerinin bulunması
+
+            (ii) Staj başvuru formu ve eklerinin hazırlanıp teslim edilmesi (BYS üzerinden yürütülmektedir)
+
+            (iii) SGK işlemlerinin tamamlanması (BYS üzerinden yürütülmektedir)
+
+        A.4.c) Staj yürütme süreci
+
+            (i) İşyerinde stajın yapılması
+
+            (ii) Staj raporunun yazılması (BYS üzerinden yürütülmektedir)
+
+            (iii) Staj değerlendirme formunun doldurulması (BYS üzerinden yürütülmektedir)
+
+            (iv) Rapor ve değerlendirme formunun teslimi (BYS üzerinden yürütülmektedir)
+
+        A.4.d) Staj değerlendirme süreci
+
+            (i) Değerlendirme formunun incelenmesi ve raporun okunup değerlendirilmesi (BYS üzerinden yürütülmektedir)
+
+            (ii) BYS’ye staj günlerinin işlenmesi (BYS üzerinden yürütülmektedir)
+
+            (iii) BYS’ye staj dersinin işlenmesi (BYS üzerinden yürütülmektedir)
+
+            (iv) Sonuçların ilanı (BYS üzerinden yürütülmektedir)
+
+ 
+
+    B) STAJ BAŞVURU SÜRECİ
+
+    B.1) Staj Önkoşulu
+
+        B.1.a) Öğrenci, dördüncü yarıyılını tamamladıktan sonra staj yapabilir. Diğer bir deyişle; öğrencinin BYS’deki yarıyılı en az 4 olmalıdır.
+
+        B.1.b) Hazırlığı yeni geçmiş öğrenci staj yapamaz.
+
+        B.1.c) Birinci sınıfı yeni tamamlamış öğrenci staj yapamaz.
+
+    B.2) Staj Süresi, Zamanı ve Staj Sayısı
+
+        B.2.a) Toplam staj süresi 60 iş günüdür. Toplam staj süresi; en fazla 40 iş günü ve en az 20 iş günü olacak şekilde stajlara bölünebilir.
+
+        B.2.b) Bölümümüz çift anadal programına (ÇAP) kayıtlı başka bir bölüm öğrencisinin, bölümümüze ait yapması gereken staj süresi 60 iş günüdür.
+
+        B.2.c) Stajlar; Üniversitemiz akademik takviminde belirtilen Bahar Yarıyılı Yarıyıl Sonu (Final) Sınavları bitiş tarihinden bir sonraki gün ile Güz Yarıyılı Derslerinin başlangıç tarihinden bir önceki gün aralığında, sınav ve derslerle çakışmamak kaydıyla yapılabilir.
+
+        B.2.d) Yaz ayları dışında; staj hariç tüm dersleri tamamlamış olmak, güz ve/veya bahar yarıyılında dersin açılmamasından kaynaklı hiçbir derse kaydolamamak gibi geçerli veya mücbir diğer nedenlerle ve ancak Staj Komisyonunun onayı ile staj yapılabilir.
+
+        B.2.e) Staj yapacak öğrencinin yaz okulundan ders alması halinde, staj günleri ile ders ve sınavların çakışmaması gerekir. Yaz okuluna kayıtlı olan öğrencinin, haftada 3 günden daha az staj yapmasına izin verilmez.
+
+        B.2.f) Resmi tatillerde (arife günleri dâhil) staj yapılmaz. Bu günleri hariç tutarak staj günü hesaplanmalıdır.
+
+        B.2.g) Cumartesi günü, iş günü olarak çalışılan işyerlerinde Cumartesi günü de iş günü olarak kabul edilir. Ancak; bu durumda öğrencilerin, işyerinden Cumartesi gününün resmi çalışma günü olduğuna dair onaylı yazı getirmesi gerekir.
+
+        B.2.h) Öğrencilerin ilk stajlarını 2. sınıfın yazında 30 iş günü (CSE3000) ve ikinci stajlarını 3. sınıfın yazında 30 iş günü (CSE4000) olarak yapmaları tavsiye edilir.
+
+    B.3) Staj Yeri ve Şekli
+
+        B.3.a) Staj yeri bulma yükümlülüğü öğrenciye aittir. Bölüm, öğrencilere staj yeri konusunda duyurularda bulunabilir. Bu nedenle, öğrenciler eng.cse.undergrad@liste.marmara.edu.tr listesinden email alabildiğinden emin olmalıdır.
+
+        B.3.b) Aynı işyerinde birden çok staj yapılamaz. Aynı firmanın farklı bölümleri de olsa birden çok staj imkânı tanınmaz.
+
+        B.3.c) Öğrenci, stajını yurt içinde veya yurt dışında bilgisayar mühendisliği ile ilgili bir alanda faaliyet gösteren ve en az bir bilgisayar mühendisi çalışanı bulunan işyerinde yapmak zorundadır.
+
+        B.3.d) Bölümüzdeki lisans eğitimimizi destekleyecek ve uygulama alanı bulunabilecek staj şartlarını sağlayan yerlerde staj yapılabilir:
+
+            (i) Sektörde yer alan kamu veya özel tüm firma, kurum veya kuruluşlar.
+
+            (ii) Bankalar, telekom şirketleri, küçük veya orta ölçekli yazılım firmaları, teknokent bünyelerindeki yazılım firmaları.
+
+            (iii) Çeşitli firma ve kuruluşların yaz okulu programları.
+
+            (iv) Amazon, Google, IBM, Microsoft, Siemens ve benzeri global şirketler.
+
+            (v) Yurt dışında bulunan firmalar.
+
+        B.3.e) Öğrencinin stajını, başka bir üniversitede veya Bölümümüzde yapması uygun görülmemektedir.
+
+        B.3.f) İyi bir staj yeri bulma konusunda yapılabilecekler:
+
+            (i) Öğrenci, staj başvurusu öncesinde kendi özgeçmişini özenli bir şekilde hazırlamalıdır.
+
+            (ii) eng.cse.undergrad listesine gönderilen tüm duyuruları takip ederek ilgi alanına uyan stajlara başvuru yapılabilir. Buna ek; öğrenci, BYS profilindeki cep telefonu ve email adresini güncel tutmalıdır.
+
+            (iii) İlgi alanına uyan çeşitli banka, telekom, ar-ge gibi sektörlerdeki şirketlerin kendi web sayfaları üzerinden başvuru yapılabilir.
+
+            (iv) Yurt dışı staj imkânı sağlayan kurumların web sayfaları incelenebilir.
+
+            (v) Daha önce staj yapmış üst sınıftaki öğrenci veya mezunlar ile konuşarak tavsiyeler alınabilir.
+
+            (vi) Bölüm öğretim elemanları ile görüşerek tavsiye ve yönlendirmeleri alınabilir.
+
+            (vii) Bölüm ve bina içerisindeki panolardaki ilanlar düzenli aralıklarla takip edilebilir.
+
+        B.3.g) Öğrencilerimizin firmalardaki çalışma ortamı ve kültürünü eksiksiz edinebilmeleri için yerinde yüz yüze staj yapmaları istenmektedir. Online (çevrimiçi) staja izin verilmemektedir.
+
+    B.4) Staj Belgeleri ve Teslimi
+
+        B.4.a) Staj başvurusu, BYS üzerinden yürütülmektedir. Öğrenci, staj içeriğini açık ve anlaşılır bir şekilde yazar ve staja başlamadan 5 iş günü önce staj başvurusunu BYS üzerinden tamamlayıp işyeri onayına gönderdikten sonra; işyeri, kendisine BYS tarafından gönderilen e-posta üzerinden onay işlemlerini gerçekleştirecektir. İşyerinin onayının tamamlanmasının ardından bölüm staj komisyonu staj başvurusunun onay işlemlerini yapacaktır.
+
+Mücbir nedenlerle başvurusu BYS üzerinden gerçekleştiremeyen öğrenci, staj komisyonunun izniyle Staj Başvuru Formu ve tüm eklerinin tam olarak doldurulup gerekli öğrenci imzası, firma imzası ve kaşesi ile birlikte eksiksiz 2 asıl nüsha halinde staja başlamadan 10 iş günü önce Bölüm Sekreterliğine ulaştırılması gerekmektedir. Belgeler aşağıda listelenmiştir:
+
+            (i) Staj Başvuru Formu (öğrenci imzalı, firma imzalı ve kaşeli)
+
+            (ii) Staj sözleşmesi (öğrenci imzalı, firma imzalı ve kaşeli)
+
+            (iii) SGK Güvence Beyanı Belgesi (sadece öğrenci imzalı)
+
+            (iv) Kimlik fotokopisi (sadece öğrenci imzalı)
+
+        B.4.b) Firmaların, öğrencinin stajın zorunlu olduğuna dair belge istemesi halinde; ilgili yazı, bölüm sekreterliğinden temin edilebilir.
+
+        B.4.c) Bazı staj yerleri öğrenciye yapmış olduğu ödemeye mukabil devlet katkısı talebinde bulunabilmektedir. Bu durumda; öğrencinin “Devlet Katkısı Talep Formunu” ve “İşsizlik Fonu Çizelgesi”ni firmaya doldurtması, imzalatması (ıslak imza) ve kaşeletmesi, dekontları teslim alarak saklaması ve staj bitiminde bölüm sekreterliğine teslim etmesi gerekmektedir.
+
+        B.4.d) Mücbir sebeplerle staj işlemlerini BYS üzerinden gerçekleştiremeyip staj komisyonu izniyle işlemlerini kağıt ortamında sürdüren öğrenciler, staj belge ve eklerinin ıslak imzalı ve A4 kâğıt çıktı olarak elden Bölüm Sekreterliğine teslim edilmesi gerekir. Kargo veya posta yoluyla belge kabul edilebilir; ancak belgelerin tam, eksiksiz ve vaktinde ulaştırılması öğrencinin sorumluluğundadır. Elektronik yollardan (email, e-mesaj vb.) gönderilen belgeler kabul edilmez.
+
+        B.4.e) Staj Başvuru Formunda belirtilen staj tarihleri ile Staj Raporunda belirtilecek tarihler uyumlu olmalıdır.
+
+        B.4.f) Resmi tatillerde (arife günleri dâhil) staj yapılmaz. Bu günleri hariç tutarak staj günü hesaplanmalıdır.
+
+        B.4.g) Cumartesi günü, iş günü olarak çalışılan işyerlerinde Cumartesi günü de, tam gün çalışılması kaydıyla, iş günü olarak kabul edilir. Ancak; bu durumda öğrencilerin, işyerinden Cumartesi gününün resmi çalışma günü olduğuna dair onaylı yazı getirmesi gerekir.
+
+        B.4.h) Formatı uygun olmayan, eksik, okunaklı olmayan veya düzgün hazırlanmamış dokümanlar teslim alınmaz.
+
+        B.4.i) Eksik veya yanlış beyanın sorumluluğu tümüyle öğrenciye aittir. Tespiti halinde staj süreci başlatılmaz ve staj kabul edilmez.
+
+        B.4.j) Öğrenci, işletmede staja başlamadan önce Staj Komisyonunun onayını almak zorundadır. Staj Komisyonunun onayı alınmadan başlanan stajlar geçerli değildir.
+
+        B.4.k) Bölüm Staj Komisyonu, başvurusu uygun görülen öğrencilere ilişkin staj yapacak öğrenci listesini ve SGK çizelgelerini hazırlayarak Dekanlığımızın Muhasebe Birimine yollar. Öğrencinin staj başlangıç tarihinden 7 gün öncesinde, muhasebe birimi SGK işlemlerini başlatır.
+Bu işlemlerin sonrasında öğrenci stajını başlayabilir.
+
+        B.4.l) Yurt dışında yapılacak stajlarda da yurt içi stajlar için uygulanan süreç aynen uygulanır, ancak başvuruda ıslak imza ve kaşe şartları aranmayabilir. Bu durumda, firma yetkilisi kurumsal email adresinden öğrencinin orada staj yapacağına dair bölüm staj koordinatörüne aşağıdaki bilgileri içeren açıklayıcı ve ayrıntılı bir email gönderir:
+
+            (i) Firmanın web adresi.
+
+            (ii) Firmanın çalışma alanları, projeleri, ürün ve hizmetleri hakkında kısa bilgi.
+
+            (iii) Firma telefon ve email adresi.
+
+            (iv) Firmada çalışan bilgisayar mühendisi sayısı ve toplam çalışan sayısı.
+
+            (v) Stajdan sorumlu firma yetkilisinin adı, soyadı, pozisyonu, telefonu ve emaili.
+
+            (vi) Staj yapacak öğrencinin adı, soyadı, öğrenci numarası.
+
+            (vii) Staj başlangıç tarihi, bitiş tarihi, staj gün sayısı.
+
+            (viii) Öğrencinin yapacağı stajın konusu, çalışacağı alan ve projeler.
+
+ 
+
+    C) STAJ YÜRÜTME SÜRECİ
+
+    C.1) Staj yapmak isteyen öğrenciler bölümde yapılacak olan staj seminerine / toplantısına katılmakla yükümlüdür.
+
+    C.2) Staja başlayan öğrenci, staj koordinatörüne bilgi vermeden ve onay almadan staj yerini değiştiremez; değiştirdiği takdirde yapılan staj geçersiz sayılır.
+
+    C.3) Öğrenci, staj yaptığı kurumun İş Kanununda düzenlenen yasal mesai sürelerine uymak zorundadır. Öğrenci, staj süresince zorunlu olmadıkça izin alamaz. Gerektiği hallerde izin süresi staj süresinin %10’unu aşamaz. Staj esnasında rapor veya izin alan öğrenci, izin veya rapor alınan gün sayısı kadar stajını staj sonunda tamamlar.
+
+    C.4) Resmi tatil ilan edilen günlerde (arife günleri dâhil) staj yapılmaz.
+
+    C.5) Bir hafta beş iş günü olarak kabul edilir. Cumartesi günü, iş günü olarak çalışılan işyerlerinde Cumartesi günü de iş günü olarak kabul edilir. Ancak; bu durumda öğrencilerin, işyerinden Cumartesi gününün resmi çalışma günü olduğuna dair onaylı yazı getirmesi gerekir.
+
+    C.6) Staj komisyonu gerektiğinde staj yerlerinde öğrencilerin çalışmalarını izleyebilir.
+
+    C.7) Staj Raporu
+
+        C.7.a) Her bir yapılan staj (20 gün, 30 gün, 40 gün) için ayrı staj raporu yazılır.
+
+        C.7.b) Staj raporu İngilizce dilinde yazılır.
+
+        C.7.c) Stajlar bireysel yapıldığı için staj raporu da grup halinde değil, bireysel olarak yazılır.
+
+        C.7.d) Yapılan staj bilgisayar mühendisliği alanıyla uyumlu olup staj raporu sadece eğitimlerden ibaret olmamalıdır.
+
+        C.7.e) Öğrenci; staj raporunu, staj başvuru formunda belirttiği tarihlerle uyumlu, her iş günü için günlük olarak BYS'de yazar.
+
+            (i) Her staj günü için öncelikle o güne ait kaçıncı staj günü olduğu ve tarih bilgisine “Day 16 – 22.08.2022.Monday” şeklinde yer verir.
+
+            (ii) Raporunda o gün yaptığı iş ile ilgili konuları ve teknik detayları açıklar.
+
+            (iii) Her gün için en az 250 kelime ile açıklama yapar.
+
+            (iv) Staj gün sayısının en az %75’inde olacak şekilde, staj günleri için üzerinde çalışılan kod örnekleri verilmelidir. Gizlilik gerektiren yerler bulanıklaştırılabilir veya tümüyle karartılabilir.
+
+            (v) Staj gün sayısının en az %75’inde olacak şekilde, staj günleri için üzerinde çalışılan konulara ait ekran görüntüleri verilmelidir. Gizlilik gerektiren yerler bulanıklaştırılabilir veya tümüyle karartılabilir.
+
+            (vi) Öğrenci, kod ve ekran görüntülerinin yanı sıra açıklamalarını diğer görsellerle de destekleyebilir.
+
+            (vii) Yazılan raporun her bir günü bir diğerinin kopyası olmaz, intihale izin verilmez.
+
+        C.7.f) Raporun yazımında yazı tipi olarak Times New Roman, Arial veya Calibri; yazı büyüklüğü olarak 12 punto kullanılır. Metinler 1,5 satır aralığında, her iki yana yaslanmış, paragraf öncesi ve sonrası boşluk 6 veya 12 puan yazılır.
+
+        C.7.g) Raporun kapak sayfasında aşağıdakiler yer alır:
+
+            (i) Marmara Üniversitesi logosu, sol üstte.
+
+            (ii) Mühendislik Fakültesi logosu, sağ üstte.
+
+            (iii) İki logonun arasına gelecek şekilde üstte; 1.satırda “T.C.”, 2.satırda “MARMARA UNIVERSITY”, 3.satırda “FACULTY OF ENGINEERING” ve 4.satırda “INTERNSHIP REPORT” ibareleri.
+
+            (iv) Orta alt kısımda üç satır şeklinde sırasıyla; öğrencinin adı soyadı, öğrenci numarası ve bölüm adı.
+
+        C.7.h) Rapor aşağıdaki bölümlerden oluşur:
+
+            (i) Table of Contents: Bu bölümde içindekiler sayfa numaraları ile yer alır.
+
+            (ii) Abstract: Bu bölümde raporun 250-500 kelimelik kısa bir özeti verilir.
+
+            (iii) Description of Institution / Company: Bu bölümde staj yapılan iş yerinin tam adı, adresi, kısa tarihi, çalışma alanları, organizasyon yapısı ve çalışan mühendis sayısına (görev, çalışma alanları/birimlere göre) yer verilir.
+
+            (iv) Internship Activities, Job Descriptions and Content: Bu bölümde günlük olarak yazılan raporlar yer alır.
+
+            (v) Conclusion: Bu bölümde öğrencinin stajdan edindiği bilgi, beceri yetkinlik bağlamında kazanım ve tecrübelere 250-500 kelime olacak şekilde yer verilir.
+
+        C.7.i) Staj raporu belirtilen formatta hazırlanmalıdır. Uygun olmayan rapor ve staj reddedilir, tekrar yazılması için yeniden süre verilmez.
+
+        C.7.j) BYS'de hazırlanan staj raporu, öğrenci tarafından BYS üzerinden işyeri onayına gönderilir. BYS'de işyeri onayı sonrası, Bölüm Staj Komisyonu, staj kabul işlemlerini BYS'de tamamlar. 
+
+        C.7.k) Mücbir nedenlerle, BYS'de işlem yapılamayan stajlar için hazırlanan staj raporunun, tek yönlü veya arkalı-önlü A4 kâğıt çıktısı alınır, firmaya ıslak imzalattırılıp kaşelettirilir, spiral veya cilt yaptırıldıktan sonra elden Bölüm Sekreterliğine teslim edilir. Raporun ilk sayfası firma yetkilisi tarafından kaşelenir ve imzalanır. Raporun diğer sayfaları paraflanır veya imzalanır.
+
+    C.8) Staj Değerlendirme Formu
+
+        C.8.a) Staj Değerlendirme Formu firma yetkilisi tarafından BYS'de doldurulur.
+
+        C.8.b) Mücbir nedenlerle, BYS'de işlem yapılamayan stajlar için Staj Değerlendirme Formu firma yetkilisi tarafından elle doldurulur.Form, okunaklı ve uygun formatta hazırlanmalıdır. Uygun olmayan form ve staj reddedilir. Hazırlanan formun A4 kâğıt çıktısı alınır, form firma yetkilisi tarafından kaşelenir ve imzalanır. Kapalı bir zarf içinde öğrenciye teslim edilir.
+
+    C.9) Staj Raporu ve Staj Değerlendirme Formu, Bölüm Staj Komisyonu tarafından değerlenirilir.
+
+    C.10) Mücbir nedenlerle, BYS'de işlem yapılamayan stajlar için, Staj Raporu ve Staj Değerlendirme Formu beraberce Bölüm Sekreterliğine değerlendirilmek üzere teslim edilir. Staj komisyonunun onayı olmadan, başka bir yere (dekanlık, bölüm öğretim üyesi vb.) yapılan hiçbir rapor veya form teslimi kabul edilmez. Kargo veya posta yoluyla belge kabul edilebilir; ancak belgelerin tam, eksiksiz ve vaktinde ulaştırılması öğrencinin sorumluluğundadır. Elektronik yollardan (email, e-mesaj vb.) gönderilen belgeler kabul edilmez.
+
+    C.11) Yaz staj raporu ve formu için son teslim tarihi, Güz yarıyılı derslerinin birinci haftasının Salı günüdür. Vaktinde teslim edilmeyen rapor veya formlar değerlendirmeye alınmaz.
+
+ 
+
+    D) STAJ DEĞERLENDİRME SÜRECİ
+
+    D.1) Staj Başvuru Formunda belirtilen staj tarihleri ile Staj Raporunda belirtilen tarihler uyumlu olmalıdır.
+
+    D.2) Resmi tatillerde (arife günleri dâhil) staj yapılmaz. Bu günleri hariç tutarak staj günü hesaplanmalıdır.
+
+    D.3) Staj Değerlendirme Formu eksik doldurulmuş veya Bölüm Sekreterliğine vaktinde ulaşmamış öğrencilerin stajları kabul edilmez. Vaktinde staj raporunu veya formunu teslim etmeyen öğrencilerin o döneme ait stajı geçersiz sayılır.
+
+    D.4) Staj Komisyonu staj yapan öğrencilere sözlü sınav uygulayabilir veya stajıyla ilgili sunum yapmasını isteyebilir.
+
+    D.5) Staj komisyonu, BYS üzerinden staj değerlendirme formunu inceleyip staj raporunu okur ve stajı başarılı veya başarısız olarak değerlendirir. Rapor ve form; tümüyle kabul, kısmen kabul veya tümüyle ret edilebilir.
+
+    D.6) Bir başka staj dosyasından kopya edildiği izlenimi uyandıran veya birbirine büyük oranda benzeyen, büyük oranda kitaplardaki bilgileri içeren staj raporları Staj Komisyonu tarafından tamamen reddedilir.
+
+    D.7) Staj Komisyonu BYS’ye girilecek staj gün sayısını belirler. Uygun görülen gün sayısı staj raporunda belirtilen gün sayısı kadar veya daha azı olabilir. BYS’ye kabul edilen staj gün sayısı girilir.
+
+    D.8) Kabul edilen staj gün sayısı dikkate alınarak BYS’de öğrencinin transkriptine staj derslerinin işlenmesine karar verilir.
+
+        D.8.a) Toplam birikimli staj gün sayısı 30’dan az olan öğrencilerin transkriptine hiçbir ders işlenmez.
+
+        D.8.b) Toplam birikimli staj gün sayısı en az 30 ve 60’tan az olan öğrencilerin transkriptine CSE3000 Summer Practice I dersi işlenir.
+
+        D.8.c) Toplam birikimli staj gün sayısı en az 60 olan öğrencilerin transkriptine CSE3000 Summer Practice I ve CSE4000 Summer Practice II dersleri işlenir.
+
+    D.9) Yukarıdaki işlemler tamamlandıktan sonra, staj değerlendirme sonuçları öğrencilere ilan edilir.
+
+ 
+
+    E) STAJ KOMİSYONU VE İLETİŞİM
+
+    E.1) İletişim ve bilgi akışı aşağıdaki sıraya uyularak yapılmalı, cevap bulunamadığı veya alınamadığı takdirde sonraki adıma başvurulmalıdır.
+
+        E.1.a) Bölüm web sitesi -> http://cse.eng.marmara.edu.tr
+
+        E.1.b) Bölüm staj sayfası -> http://cse.eng.marmara.edu.tr/lisans-programi/staj
+
+        E.1.c) Bölüm ilgili Staj Sorumlusu (sadece gerekli hallerde iletişime geçiniz.)
+
+        E.1.d) Bölüm Staj Koordinatörü (sadece gerekli hallerde iletişime geçiniz.)
+
+    E.2) Evrak işleri ve süreç takibi ile ilgili Bölüm Sekreterimiz Ahmet Sait KAYA (Oda: M2-244) ile iletişime geçilebilir.
+
+    E.3) Bölüm Staj Komisyonu aşağıda belirtilen öğretim elemanlarından oluşmaktadır:
+
+        E.3.a) Bölüm staj koordinatörü: Doç.Dr. Mustafa AĞAOĞLU (Oda: M2-221)
+
+        E.3.b) Staj sorumlusu: Arş. Gör. Yusuf İbrahim MATUR (Oda: M2-201)
+
+    E.4) Öğrenciler staj sorumlusu ile email iletişiminde aşağıdaki kurallara uyarak yazışmalarını gerçektirmelidirler:
+
+        E.4.a) Email yazarken öğrenci numarasını, adını ve soyadını yazmalı; to/kime kısmında ilgili staj sorumlusu, cc/bilgi kısmında staj koordinatörü yer almalıdır.
+
+        E.4.b) Emailleri cevaplarken tümüne-yanıtla/reply-all şeklinde yazışmalıdır.
+
+ 
+
+    F) STAJA İLİŞKİN DOKÜMANLAR
+
+    F.1) Staj Toplantısı Sunumu
+
+    F.2) Staj Başvuru Formu
+
+    F.3) Staj Sözleşmesi
+
+    F.4) SGK Güvence Beyanı Belgesi
+
+    F.5) Devlet Katkısı Talep Formu
+
+    F.6) İşsizlik Fonu Katkısı Çizelgesi
+
+    F.7) Staj Raporu Şablonu
+
+    F.8) Staj Değerlendirme Formu
+
+    F.9) Staj Yönergesi
+
+    F.10) 2016 Staj Yönetmeliği/Uygulama Esasları ve Yurt Dışı/İçi Staj Başarı Hikayeleri
+
+    F.11) 2017 Staj Yönetmeliği/Uygulama Esasları ve Yurt Dışı/İçi Staj Başarı Hikayeleri
+
+    F.12) 2018 Staj Yönetmeliği/Uygulama Esasları ve Yurt Dışı/İçi Staj Başarı Hikayeleri
+
+    F.13) 2019 Staj Yönetmeliği/Uygulama Esasları ve Yurt Dışı/İçi Staj Başarı Hikayeleri
+
+    F.14) BYS öğrenci staj başvurusu videolu anlatım (demo) için tıklayınız. 
