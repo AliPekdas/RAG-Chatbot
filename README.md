@@ -20,6 +20,6 @@ Her parça için docId, chunkId, başlangıç-bitiş indeksleri ve metnin kendis
 Kütüphanenin "kataloğu" gibidir. Metin içermez, sadece adres tutar.
 Kelime -> [Bulunduğu Dokümanlar] eşleşmesini tutar.
 Örnek: "staj" kelimesi arandığında, sistem bu dosyaya bakarak kelimenin Yonetmelik.txt içinde 10. parçada geçtiğini anında bulur.  
-
+  
 ## Ali Doğan Pekdaş  
 kod
