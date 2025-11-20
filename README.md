@@ -34,11 +34,16 @@ Kullanıcının girdiği ham soruyu normalize eder (küçük harfe çevirme, nok
 ## İlker Elgin
 - IntentDetector.java (Interface): Kullanıcının doğal dilde sorduğu sorunun amacını (Intent) belirlemek için kullanılan strateji arayüzüdür. Strategy Pattern uygulanmıştır; bu sayede kural tabanlı yapı ileride bir yapay zeka modeliyle (LLM) kolayca değiştirilebilir.
 
-- RuleBasedIntentDetector.java: IntentDetector arayüzünün somut implementasyonudur. Algoritma: Basit anahtar kelime eşleşmesi (Keyword Matching) kullanır. Önceden tanımlanmış bir kelime haritası (RULE_SET) üzerinden soruyu tarar.
-İşleyiş: Soruyu normalize eder (küçük harfe çevirme, noktalama temizliği). Örneğin; soru içinde "hoca", "ofis" veya "danışman" geçiyorsa niyeti STAFF_LOOKUP olarak belirler. "staj", "yönetmelik" geçiyorsa POLICY_FAQ olarak belirler. Hiçbir kurala uymuyorsa UNKNOWN döndürür. Bu yapı, "Baseline implementation: RuleIntentDetector" gereksinimini karşılar .
+- RuleBasedIntentDetector.java: IntentDetector arayüzünün somut implementasyonudur. Algoritma: Basit anahtar kelime eşleşmesi (Keyword Matching) kullanır. Önceden tanımlanmış bir kelime haritası (RULE_SET) üzerinden soruyu tarar. İşleyiş: Soruyu normalize eder (küçük harfe çevirme, noktalama temizliği). Örneğin; soru içinde "hoca", "ofis" veya "danışman" geçiyorsa niyeti STAFF_LOOKUP olarak belirler. "staj", "yönetmelik" geçiyorsa POLICY_FAQ olarak belirler. Hiçbir kurala uymuyorsa UNKNOWN döndürür. Bu yapı, "Baseline implementation: RuleIntentDetector" gereksinimini karşılar .
 
 - Reranker.java (Interface): Arama motorundan (Retriever) dönen sonuçların sıralamasını iyileştirmek için kullanılan arayüzdür. Sistemin farklı puanlama algoritmalarına açık olmasını sağlar.
 
 - BasicReranker.java: Reranker arayüzünün somut implementasyonudur. Retriever tarafından hesaplanan ham TF (Term Frequency) puanlarını, metin içi özelliklere göre günceller.
-Proximity Bonus (Yakınlık Puanı): Eğer sorgudaki kelimeler metin içinde birbirine yakın (15 karakter/kelime mesafesinde) geçiyorsa, o sonuca +5.0 puan ekler. Bu, kelimelerin rastgele dağıldığı metinler yerine, bir cümle içinde geçtiği metinleri öne çıkarır.
-Deterministik Sıralama (Tie-Break): Puanlar güncellendikten sonra sonuçları kesin bir kurala göre tekrar sıralar: Score (Büyükten küçüğe / Azalan), DocID (Küçükten büyüğe / Artan - Eşitlik durumunda), ChunkID (Küçükten büyüğe / Artan - Eşitlik durumunda).
+Proximity Bonus (Yakınlık Puanı): Eğer sorgudaki kelimeler metin içinde birbirine yakın (15 karakter/kelime mesafesinde) geçiyorsa, o sonuca +5.0 puan ekler. Bu, kelimelerin rastgele dağıldığı metinler yerine, bir cümle içinde geçtiği metinleri öne çıkarır. Deterministik Sıralama (Tie-Break): Puanlar güncellendikten sonra sonuçları kesin bir kurala göre tekrar sıralar: Score (Büyükten küçüğe / Azalan), DocID (Küçükten büyüğe / Artan - Eşitlik durumunda), ChunkID (Küçükten büyüğe / Artan - Eşitlik durumunda).
+
+## Berkay Aksu
+- AnswerAgent.java (Strateji Arayüzü / Interface): Bu, cevap üretme işinin Sözleşmesidir (Interface). Görevi: Sistemin "Nasıl cevap üretildiğini" bilmeden çalışabilmesini sağlar (Low Coupling). Tasarım Deseni: Strategy Pattern'in arayüz kısmıdır. Esneklik: Bugün TemplateAnswerAgent kullanırsınız, yarın LLMAnswerAgent (Yapay Zeka) yazarsınız. RagOrchestrator kodunu değiştirmeden sadece bu sınıfın uygulamasını değiştirerek sistemi güncelleyebilirsiniz.
+
+- Answer.java (Veri Taşıyıcı / DTO): Bu sınıf bir Data Transfer Object (DTO)'dir. Sistemin ürettiği cevabı standart bir pakete koyar. Görevi: Sadece metni (text) değil, o metnin nereden geldiğini gösteren kaynakçayı (citations) da bir arada tutmaktır.
+
+- TemplateAnswerAgent.java (Somut Uygulama): Bu sınıf, Iterasyon 1 için istenen Kural Tabanlı / Şablon cevaplayıcıdır. Görevi: Arama sonuçlarını (rankedHits) alır ve basit bir mantıkla cevap oluşturur.
