@@ -7,8 +7,8 @@ import java.util.regex.Pattern;
 
 public class IndexBuilder {
 
-    private static final String INPUT_FILE = "data/corpus.json";
-    private static final String OUTPUT_FILE = "data/index.json";
+    private static final String INPUT_FILE = "../data/corpus.json";
+    private static final String OUTPUT_FILE = "../data/index.json";
 
     // Basit stopwords listesi (İstersen genişletebilirsin)
     private static final Set<String> STOP_WORDS = Set.of(
@@ -143,3 +143,4 @@ public class IndexBuilder {
         }
     }
 }
+
