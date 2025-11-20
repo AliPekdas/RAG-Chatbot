@@ -1,0 +1,37 @@
+# MiniRAG Konfigürasyon Dosyası (Iteration 1)
+# Bu dosya sistemin çalışma parametrelerini belirler.
+
+pipeline:
+  name: "MiniRAG_V1"
+  language: "tr"
+
+# Veri Kaynakları
+data:
+  sourceDirectory: "../txt_files"
+  corpusFile: "data/corpus.json"
+  indexFile: "data/index.json"
+  logsDirectory: "logs"
+
+# Strateji Seçimleri (Dependency Injection için referans)
+strategies:
+  intentDetector: "RuleBasedIntentDetector"
+  queryWriter: "HeuristicQueryWriter"
+  retriever: "KeywordRetriever"
+  reranker: "BasicReranker"
+  answerAgent: "TemplateAnswerAgent"
+
+# Algoritma Parametreleri
+parameters:
+  chunking:
+    windowSize: 120
+    overlap: 30
+  
+  reranker:
+    proximityBonus: 5.0
+    proximityDistance: 15
+    
+  retriever:
+    maxResults: 10
+
+  answer:
+    maxLength: 150
