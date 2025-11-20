@@ -5,159 +5,105 @@ import java.util.*;
 
 public class Chunker {
 
-    // --- AYARLAR ---
-    // Proje dokümanında 100-150 kelime denmiş.
+    // --- AYARLAR: RELATIVE PATHS (src klasöründen çalıştırıldığı varsayımıyla) ---
+    private static final String INPUT_DIR = "../txt_files";
+    private static final String OUTPUT_DIR = "../data";
+    private static final String OUTPUT_FILE = "../data/corpus.json";
+    
     private static final int CHUNK_SIZE_WORDS = 120;
-    // Örtüşme (Overlap) kesilmeleri önler (50-100 karakter veya ~20-30 kelime).
     private static final int OVERLAP_WORDS = 30;
 
-    // Dosya Yolları
-    private static final String INPUT_DIR = "../txt_files";
-    private static final String OUTPUT_FILE = "../data/corpus.json";
-
     public static void main(String[] args) {
-        System.out.println("Chunking işlemi başlıyor...");
+        System.out.println("[Chunker] Başlatılıyor...");
         try {
-            // 1. Çıktı klasörünü kontrol et, yoksa oluştur
-            Files.createDirectories(Paths.get("data"));
+            // 1. Data klasörünü oluştur (Yoksa)
+            Path outPath = Paths.get(OUTPUT_DIR);
+            if (!Files.exists(outPath)) {
+                Files.createDirectories(outPath);
+                System.out.println("[Chunker] '../data' klasörü oluşturuldu.");
+            }
 
-            // 2. txt_files klasöründeki tüm .txt dosyalarını bul
+            // 2. txt_files klasörünü kontrol et
             File folder = new File(INPUT_DIR);
-            File[] listOfFiles = folder.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
+            if (!folder.exists()) {
+                // Klasör yoksa oluştur ve kullanıcıyı uyar
+                folder.mkdirs();
+                System.err.println("HATA: '../txt_files' klasörü boş! Lütfen içine .txt dosyaları ekleyin.");
+                return;
+            }
 
+            File[] listOfFiles = folder.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
             if (listOfFiles == null || listOfFiles.length == 0) {
-                System.err.println("HATA: txt_files klasöründe hiç .txt dosyası bulunamadı!");
+                System.err.println("HATA: '../txt_files' içinde .txt dosyası bulunamadı.");
                 return;
             }
 
             List<String> jsonChunks = new ArrayList<>();
             int globalChunkId = 0;
 
-            // 3. Her dosyayı tek tek işle
+            // 3. Dosyaları İşle
             for (File file : listOfFiles) {
-                System.out.println("İşleniyor: " + file.getName());
+                System.out.println("   -> İşleniyor: " + file.getName());
                 String content = Files.readString(file.toPath(), StandardCharsets.UTF_8);
 
-                // --- NORMALİZASYON ---
-                // Küçük harfe çevir ve gereksiz boşlukları temizle
-                content = content.toLowerCase(Locale.ENGLISH).trim();
-                // Satır sonlarını boşlukla değiştir (paragraf bütünlüğü için)
-                content = content.replace("\n", " ").replace("\r", " ");
-                // Fazla boşlukları tek boşluğa indir
-                content = content.replaceAll("\\s+", " ");
+                // Normalizasyon
+                content = content.toLowerCase(Locale.ENGLISH).trim()
+                        .replace("\n", " ").replace("\r", " ").replaceAll("\\s+", " ");
 
-                // Dosyayı parçalara ayır (Chunking)
                 List<Chunk> fileChunks = createChunks(content, file.getName(), globalChunkId);
-
                 for (Chunk chunk : fileChunks) {
                     jsonChunks.add(chunk.toJson());
                     globalChunkId++;
                 }
             }
 
-            // 4. Sonucu JSON Array formatında kaydet
+            // 4. Kaydet
             writeToFile(jsonChunks);
-            System.out.println("Bitti! Toplam " + globalChunkId + " adet chunk oluşturuldu.");
-            System.out.println("Dosya konumu: " + OUTPUT_FILE);
+            System.out.println("[Chunker] Tamamlandı. Toplam Chunk: " + globalChunkId);
 
         } catch (IOException e) {
-            System.err.println("HATA: IO hatası oluştu: " + e.getMessage());
-            e.printStackTrace(System.err);
+            System.err.println("[Chunker] Hata: " + e.getMessage());
         }
     }
 
-    // Metni kelime bazlı kayan pencere (sliding window) ile böler
     private static List<Chunk> createChunks(String content, String docId, int startId) {
         List<Chunk> chunks = new ArrayList<>();
-        String[] words = content.split(" "); // Kelimelere ayır
-
-        int currentId = startId;
-        int i = 0;
+        String[] words = content.split(" ");
+        int i = 0, currentId = startId;
 
         while (i < words.length) {
-            // Bitiş noktasını belirle (Dizi sınırını aşma)
             int end = Math.min(i + CHUNK_SIZE_WORDS, words.length);
-
-            // Kelimeleri tekrar birleştirip metin yap
-            StringBuilder chunkTextBuilder = new StringBuilder();
-            for (int k = i; k < end; k++) {
-                chunkTextBuilder.append(words[k]).append(" ");
+            StringBuilder sb = new StringBuilder();
+            for (int k = i; k < end; k++) sb.append(words[k]).append(" ");
+            
+            String text = sb.toString().trim();
+            if (text.length() > 10) {
+                chunks.add(new Chunk(currentId++, docId, text));
             }
-            String chunkText = chunkTextBuilder.toString().trim();
-
-            // Çok kısa parçaları (örn. dosya sonundaki 3 kelime) yoksayabiliriz
-            if (chunkText.length() > 10) {
-                // Offset hesaplama (Basitçe kelime indeksi kullanıyoruz, karakter de olabilir)
-                int startOffset = i;
-                int endOffset = end;
-
-                Chunk chunk = new Chunk(currentId, docId, chunkText, startOffset, endOffset);
-                chunks.add(chunk);
-                currentId++;
-            }
-
-            // Döngüden çıkış kontrolü
             if (end == words.length) break;
-
-            // Pencereyi kaydır (Overlap mantığı)
             i += (CHUNK_SIZE_WORDS - OVERLAP_WORDS);
         }
         return chunks;
     }
 
-    // JSON dosyasına yazma işlemi
     private static void writeToFile(List<String> jsonObjects) throws IOException {
         try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(OUTPUT_FILE), StandardCharsets.UTF_8)) {
             writer.write("[\n");
             for (int i = 0; i < jsonObjects.size(); i++) {
                 writer.write("  " + jsonObjects.get(i));
-                if (i < jsonObjects.size() - 1) {
-                    writer.write(",\n"); // Son eleman hariç virgül koy
-                } else {
-                    writer.write("\n");
-                }
+                writer.write(i < jsonObjects.size() - 1 ? ",\n" : "\n");
             }
             writer.write("]");
         }
     }
 
-    // Chunk Veri Yapısı (Inner Class)
     static class Chunk {
-        int id;
-        String docId;
-        String text;
-        int startOffset;
-        int endOffset;
-
-        public Chunk(int id, String docId, String text, int startOffset, int endOffset) {
-            this.id = id;
-            this.docId = docId;
-            this.text = text;
-            this.startOffset = startOffset;
-            this.endOffset = endOffset;
-        }
-
-        // Manuel JSON String oluşturucu (Kütüphanesiz)
-        // DÜZELTİLMİŞ TOJSON METODU
+        int id; String docId; String text;
+        public Chunk(int id, String docId, String text) { this.id = id; this.docId = docId; this.text = text; }
+        
         public String toJson() {
-            // SIRALAMA ÇOK ÖNEMLİ!
-            // 1. Önce ters eğik çizgileri (backslash) düzeltmeliyiz.
-            // 2. Sonra tırnak işaretlerini düzeltmeliyiz.
-            // Aksi takdirde tırnak için koyduğumuz çizgiyi de bozuyoruz.
-
-            String safeText = text
-                    .replace("\\", "\\\\")  // Önce backslash'i kaçır
-                    .replace("\"", "\\\"")  // Sonra tırnakları kaçır
-                    .replace("\n", " ")     // Yeni satır karakterlerini boşluk yap
-                    .replace("\r", " ")     // Satır başı karakterlerini boşluk yap
-                    .replace("\t", " ");    // Tab karakterlerini boşluk yap
-
-            return String.format(
-                    "{\"chunkId\": %d, \"docId\": \"%s\", \"startOffset\": %d, \"endOffset\": %d, \"text\": \"%s\"}",
-                    id, docId, startOffset, endOffset, safeText
-            );
+            String safeText = text.replace("\\", "\\\\").replace("\"", "\\\"").replace("\t", " ");
+            return String.format("{\"chunkId\": %d, \"docId\": \"%s\", \"text\": \"%s\"}", id, docId, safeText);
         }
     }
 }
-
-
