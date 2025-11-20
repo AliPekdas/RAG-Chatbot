@@ -13,7 +13,7 @@ public class Chunker {
 
     // Dosya Yolları
     private static final String INPUT_DIR = "../txt_files";
-    private static final String OUTPUT_FILE = "data/corpus.json";
+    private static final String OUTPUT_FILE = "../data/corpus.json";
 
     public static void main(String[] args) {
         System.out.println("Chunking işlemi başlıyor...");
@@ -159,4 +159,5 @@ public class Chunker {
         }
     }
 }
+
 
