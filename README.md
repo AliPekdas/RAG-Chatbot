@@ -1,43 +1,43 @@
 # CSE3063F25Grp12
 ## Ebubekir Bağdaş  
--RagOrchestrator.java (Merkezi Kontrolör):  
+- RagOrchestrator.java (Merkezi Kontrolör):  
 GRASP Controller desenini uygular ve tüm RAG akışını (Pipeline) yönetir.  
 Template Method benzeri bir yapıyla, işlemleri belirli bir sırada (Niyet Tespiti - Sorgu Yazma - Arama - Sıralama - Cevaplama) çalıştırır.  
 Dependency Injection (Bağımlılık Enjeksiyonu) kullanarak tüm stratejileri (Retriever, QueryWriter vb.) yapıcı metodunda alır, bu da sistemi gevşek bağlı (Low Coupling) tutar.  
 
--Context.java (Bağlam/Veri Taşıyıcı):  
+- Context.java (Bağlam/Veri Taşıyıcı):  
 Pipeline'ın aşamaları arasında veri taşınmasını sağlayan Data Transfer Object (DTO) yapısıdır.  
 İşlem boyunca oluşan durumu (Kullanıcı sorusu, tespit edilen niyet, arama terimleri, bulunan sonuçlar ve final cevap) merkezi bir nesnede tutar.  
 Metotların parametre sayısını azaltır ve aşamalar arasındaki veri akışını standartlaştırır.  
 
--TraceBus.java (İzleme ve Loglama):  
+- TraceBus.java (İzleme ve Loglama):  
 Observer Pattern (Gözlemci Deseni) mantığıyla çalışan basitleştirilmiş bir olay (event) yayıncısıdır.  
 Sistemin her aşamasında (QueryGenerated, Retrieved vb.) tetiklenerek, o anki Context durumunu ve işlem detaylarını (bulunan sonuç sayısı, üretilen terimler) konsola basar.  
 Hata ayıklama ve sistemin şeffaflığı (Traceability) için kullanılır.  
 
--Hit.java (Arama Sonucu Modeli):  
+- Hit.java (Arama Sonucu Modeli):  
 Arama motorunun bulduğu tek bir doküman parçasını temsil eden Domain Model sınıfıdır.  
 Parçanın kimlik bilgilerini (docId, chunkId), içeriğini (body) ve alaka düzeyini belirten puanını (score) saklar.  
 Sıralama (Ranking) algoritmaları bu nesneler üzerindeki score değerini değiştirerek çalışır4.
 
 ## Doğukan Şahin  
--Chunker.java (Parçalayıcı):
+- Chunker.java (Parçalayıcı):
 Ham metin belgelerini okur ve belirlenen boyutta (500 karakter) küçük parçalara (Chunks) ayırır.
 Bağlamın kopmaması için parçalar arasında Overlap (100 karakterlik örtüşme) bırakır.
 Akıllı Bölme: Kelimelerin ortadan bölünmesini engellemek için kesme işlemini en yakın boşluk karakterine göre yapar.  
 
--IndexBuilder.java (İndeksleyici):
+- IndexBuilder.java (İndeksleyici):
 Oluşturulan chunk'ları analiz eder.
 Metni normalize eder (küçük harfe çevirme, noktalama temizliği).
-Hangi kelimenin (Token) hangi dökümanda kaç kez geçtiğini hesaplar (Term Frequency) ve arama yapısını inşa eder.  
+Hangi kelimenin (Token) hangi dökümanda kaç kez geçtiğini hesaplar (Term Frequency) ve arama yapısını inşa eder.
 
 Sistem, veritabanı yerine iki ana JSON dosyası üzerinden çalışır:  
 
--corpus.json (Veri Deposu):
+- corpus.json (Veri Deposu):
 Kütüphanenin "rafları" gibidir. Metinlerin gerçek içeriğini saklar.
 Her parça için docId, chunkId, başlangıç-bitiş indeksleri ve metnin kendisini tutar. Cevap üretilirken metin buradan çekilir.  
 
--index.json (Tersine İndeks / Arama Haritası):
+- index.json (Tersine İndeks / Arama Haritası):
 Kütüphanenin "kataloğu" gibidir. Metin içermez, sadece adres tutar.
 Kelime -> [Bulunduğu Dokümanlar] eşleşmesini tutar.
 Örnek: "staj" kelimesi arandığında, sistem bu dosyaya bakarak kelimenin Yonetmelik.txt içinde 10. parçada geçtiğini anında bulur.  
