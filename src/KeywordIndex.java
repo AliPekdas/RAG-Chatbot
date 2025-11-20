@@ -8,8 +8,8 @@ import java.util.regex.Pattern;
 public class KeywordIndex {
 
     // Dosya yolları
-    private static final String INDEX_PATH = "data/index.json";
-    private static final String CORPUS_PATH = "data/corpus.json";
+    private static final String INDEX_PATH = "../data/index.json";
+    private static final String CORPUS_PATH = "../data/corpus.json";
 
     // 1. Arama İndeksi: Kelime -> [ (docId, chunkId, tf), ... ]
     private final Map<String, List<IndexEntry>> indexMap = new HashMap<>();
@@ -131,4 +131,5 @@ public class KeywordIndex {
             this.termFrequency = tf;
         }
     }
+
 }
