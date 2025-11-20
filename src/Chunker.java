@@ -12,7 +12,7 @@ public class Chunker {
     private static final int OVERLAP_WORDS = 30;
 
     // Dosya Yolları
-    private static final String INPUT_DIR = "txt_files";
+    private static final String INPUT_DIR = "../txt_files";
     private static final String OUTPUT_FILE = "data/corpus.json";
 
     public static void main(String[] args) {
@@ -159,3 +159,4 @@ public class Chunker {
         }
     }
 }
+
