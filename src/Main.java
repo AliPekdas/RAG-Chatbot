@@ -1,34 +1,14 @@
 import java.io.File;
+
 public class Main {
     public static void main(String[] args) {
-        // --- 0. BAŞLANGIÇ KONTROLÜ (AUTO-SETUP) ---
+        System.out.println("=== RAG SİSTEMİ ===");
+        
+        // 1. OTOMATİK KURULUM (Veri Yoksa Oluştur)
         ensureDataExists();
 
-        // --- 1. CLI Parametrelerini Oku ---
-        String cliQuestion = null;
-        String configFile = "config.yaml";
-
-        for (int i = 0; i < args.length; i++) {
-            if (args[i].equals("--q") && i + 1 < args.length) {
-                cliQuestion = args[i+1];
-            }
-            if (args[i].equals("--config") && i + 1 < args.length) {
-                configFile = args[i+1];
-            }
-        }
-
-        // Kullanılan konfigürasyon dosyasını raporla (değişken artık kullanılıyor)
-        System.out.println("[Sistem]: Kullanılan config dosyası: " + configFile);
-
-        System.out.println("==================================================");
-        System.out.println("   MiniRAG System");
-        System.out.println("==================================================");
-        
-        // 2. Veriyi Yükle
-        System.out.println("\n[Sistem]: İndeks yükleniyor...");
+        // 2. Başlat
         KeywordIndex index = new KeywordIndex();
-
-        // 3. Bileşenleri Oluştur
         IntentDetector intentDetector = new RuleBasedIntentDetector();
         QueryWriter queryWriter = new HeuristicQueryWriter();
         Retriever retriever = new KeywordRetriever();
@@ -36,66 +16,36 @@ public class Main {
         AnswerAgent answerAgent = new TemplateAnswerAgent();
         TraceBus traceBus = new TraceBus();
 
-        // 4. Orkestratörü Kur
         RagOrchestrator orchestrator = new RagOrchestrator(
-                intentDetector,
-                queryWriter,
-                retriever,
-                reranker,
-                answerAgent,
-                traceBus,
-                index
+                intentDetector, queryWriter, retriever, reranker, answerAgent, traceBus, index
         );
 
-        // 5. Çalıştır
-        if (cliQuestion != null) {
-            runScenario(orchestrator, cliQuestion);
-        } else {
-            System.out.println("UYARI: Soru girilmedi. Varsayılan test çalışıyor.");
-            runScenario(orchestrator, "Murat hocanın ofisi nerede?");
-        }
+        // 3. Test
+        String soru = (args.length > 1 && args[0].equals("--q")) ? args[1] : "Murat hocanın ofisi nerede?";
+        runScenario(orchestrator, soru);
     }
 
-    // --- YENİ EKLENEN METOT: EKSİK DOSYALARI TAMAMLAR ---
     private static void ensureDataExists() {
+        // Dosyaları ../data klasöründe arıyoruz
         File indexFile = new File("../data/index.json");
-        File corpusFile = new File("../data/corpus.json");
-
-        // Eğer indeks veya corpus yoksa, sıfırdan oluştur
-        if (!indexFile.exists() || !corpusFile.exists()) {
-            System.out.println("\n[Sistem Uyarısı]: İndeks dosyaları bulunamadı.");
-            System.out.println("[Sistem]: Otomatik kurulum başlatılıyor (Chunker + IndexBuilder)...");
-            
+        
+        if (!indexFile.exists()) {
+            System.out.println("\n[Sistem]: Veri dosyaları eksik. Otomatik oluşturuluyor...");
             try {
-                // 1. Chunker'ı çalıştır
-                System.out.println("   -> Adım 1/2: Metinler parçalanıyor (Chunking)...");
-                Chunker.main(new String[]{}); 
-                
-                // 2. IndexBuilder'ı çalıştır
-                System.out.println("   -> Adım 2/2: İndeks oluşturuluyor...");
+                // Chunker ve IndexBuilder'ı çalıştır
+                Chunker.main(new String[]{});
                 IndexBuilder.main(new String[]{});
-                
-                System.out.println("[Sistem]: Kurulum tamamlandı! Sorguya geçiliyor.\n");
             } catch (Exception e) {
-                System.err.println("KRİTİK HATA: Otomatik kurulum başarısız oldu!");
-                System.err.println("Lütfen 'txt_files' klasörünün jar ile aynı yerde olduğundan emin olun.");
-                System.err.println(e.getMessage());
-                System.exit(1);
+                System.err.println("KURULUM HATASI: " + e.getMessage());
             }
+            System.out.println("[Sistem]: Kurulum bitti. Devam ediliyor...\n");
         }
     }
 
     private static void runScenario(RagOrchestrator orchestrator, String question) {
-        System.out.println("##################################################");
         System.out.println("SORU: " + question);
-        try {
-            Answer result = orchestrator.run(question);
-            System.out.println("\n>>> SONUÇ ÇIKTISI <<<");
-            System.out.println("📝 Cevap: " + result.getText());
-            System.out.println("📚 Kaynak: " + result.getCitations());
-        } catch (Exception e) {
-            System.err.println(e.getMessage());
-        }
-        System.out.println("\n");
+        Answer result = orchestrator.run(question);
+        System.out.println("CEVAP: " + result.getText());
+        System.out.println("KAYNAK: " + result.getCitations());
     }
 }
