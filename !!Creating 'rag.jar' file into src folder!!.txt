@@ -1,4 +1,0 @@
-
-javac *.java
-jar cfe rag.jar Main *.class
-java -jar rag.jar --config config.yaml --q "Murat Can Ganiz’in ofis numarası nedir?"
