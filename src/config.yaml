@@ -8,8 +8,8 @@ pipeline:
 # Veri Kaynakları
 data:
   sourceDirectory: "../txt_files"
-  corpusFile: "data/corpus.json"
-  indexFile: "data/index.json"
+  corpusFile: "../data/corpus.json"
+  indexFile: "../data/index.json"
   logsDirectory: "logs"
 
 # Strateji Seçimleri (Dependency Injection için referans)
