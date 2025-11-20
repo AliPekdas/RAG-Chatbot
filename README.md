@@ -23,8 +23,8 @@ Sıralama (Ranking) algoritmaları bu nesneler üzerindeki score değerini deği
 ## Doğukan Şahin  
 - Chunker.java (Parçalayıcı):
   Ham metin belgelerini okur ve belirlenen boyutta (500 karakter) küçük parçalara (Chunks) ayırır.
-  Bağlamın kopmaması için parçalar arasında Overlap (100 karakterlik örtüşme) bırakır.
-  Akıllı Bölme: Kelimelerin ortadan bölünmesini engellemek için kesme işlemini en yakın boşluk karakterine göre yapar.  
+    Bağlamın kopmaması için parçalar arasında Overlap (100 karakterlik örtüşme) bırakır.
+    Akıllı Bölme: Kelimelerin ortadan bölünmesini engellemek için kesme işlemini en yakın boşluk karakterine göre yapar.  
 
 - IndexBuilder.java (İndeksleyici):
   Oluşturulan chunk'ları analiz eder.
