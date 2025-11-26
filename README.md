@@ -6,7 +6,7 @@
 
 - TraceBus.java (İzleme ve Loglama): Observer Pattern (Gözlemci Deseni) mantığıyla çalışan basitleştirilmiş bir olay (event) yayıncısıdır. Sistemin her aşamasında (QueryGenerated, Retrieved vb.) tetiklenerek, o anki Context durumunu ve işlem detaylarını (bulunan sonuç sayısı, üretilen terimler) konsola basar. Hata ayıklama ve sistemin şeffaflığı (Traceability) için kullanılır.  
 
-- Hit.java (Arama Sonucu Modeli): Arama motorunun bulduğu tek bir doküman parçasını temsil eden Domain Model sınıfıdır. Parçanın kimlik bilgilerini (docId, chunkId), içeriğini (body) ve alaka düzeyini belirten puanını (score) saklar. Sıralama (Ranking) algoritmaları bu nesneler üzerindeki score değerini değiştirerek çalışır4.
+- Hit.java (Arama Sonucu Modeli): Arama motorunun bulduğu tek bir doküman parçasını temsil eden Domain Model sınıfıdır. Parçanın kimlik bilgilerini (docId, chunkId), içeriğini (body) ve alaka düzeyini belirten puanını (score) saklar. Sıralama (Ranking) algoritmaları bu nesneler üzerindeki score değerini değiştirerek çalışır.
 
 ## Doğukan Şahin  
 - Chunker.java (Parçalayıcı): Ham metin belgelerini okur ve belirlenen boyutta (500 karakter) küçük parçalara (Chunks) ayırır. Bağlamın kopmaması için parçalar arasında Overlap (100 karakterlik örtüşme) bırakır. Akıllı Bölme: Kelimelerin ortadan bölünmesini engellemek için kesme işlemini en yakın boşluk karakterine göre yapar.  
