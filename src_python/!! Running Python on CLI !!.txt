@@ -1,1 +1,0 @@
-python main.py --q "Murat Can Ganiz’in ofis numarası nedir?"
