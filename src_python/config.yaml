@@ -1,0 +1,24 @@
+# MiniRAG Configuration
+pipeline:
+  name: "MiniRAG_V1"
+  language: "tr"
+
+data:
+  sourceDirectory: "../txt_files"
+  corpusFile: "../data/corpus.json"
+  indexFile: "../data/index.json"
+
+parameters:
+  chunking:
+    windowSize: 50
+    overlap: 10
+
+  reranker:
+    proximityBonus: 5.0
+    proximityDistance: 15
+
+  retriever:
+    maxResults: 10
+
+  answer:
+    maxLength: 500
