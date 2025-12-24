@@ -14,7 +14,7 @@ from query_writer import HeuristicQueryWriter
 from retriever import KeywordRetriever
 from reranker import BasicReranker
 from answer_agent import TemplateAnswerAgent
-
+from eval_harness import EvalHarness
 
 def ensure_data_exists(config):
     """Checks if data exists based on config paths."""
@@ -46,37 +46,53 @@ def run_scenario(orchestrator: RagOrchestrator, question: str):
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--q", required=True, help="Your question")
+    parser = argparse.ArgumentParser(description="MiniRAG System CLI")
+    
+    # Argument Group: The user must use either --q or --batch.
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--q", help="Sisteme tek bir soru sorar.")
+    group.add_argument("--batch", help="JSON dosyasındaki sorularla toplu değerlendirme yapar.")
+    
+    # Optional configuration parameter
+    parser.add_argument("--config", default="config.yaml", help="Konfigürasyon dosyası.")
+
     args = parser.parse_args()
-    cli_question = args.q.strip()
 
     print("==================================================")
-    print("   RAG SYSTEM")
+    print("   RAG SYSTEM (Iteration 1 + Batch CLI)")
     print("==================================================")
 
-    # 1. Load Config
+    # 1. Load Configuration
     config = load_config()
     print(f"[System]: Loaded config for '{config['pipeline']['name']}'")
 
-    # 2. Ensure Data
+    # 2. Make Sure the Data Is Ready
     ensure_data_exists(config)
     print("[System]: Initializing components...")
 
-    # 3. Initialize Components with Config injection
-    # IntentDetector and QueryWriter don't use config params in this version, so no arg passed
+    # 3. Start Components (Dependency Injection)
     orchestrator = RagOrchestrator(
-        RuleBasedIntentDetector(),
-        HeuristicQueryWriter(),
-        KeywordRetriever(config),
-        BasicReranker(config),
-        TemplateAnswerAgent(config),
-        TraceBus(),
-        KeywordIndex(config)
+        intent_detector=RuleBasedIntentDetector(),
+        query_writer=HeuristicQueryWriter(),
+        retriever=KeywordRetriever(config),
+        reranker=BasicReranker(config),
+        answer_agent=TemplateAnswerAgent(config),
+        trace_bus=TraceBus(), 
+        keyword_index=KeywordIndex(config)
     )
 
-    run_scenario(orchestrator, cli_question)
-
+    # 4. Run According to Mode Selection
+    if args.q:
+        # --- Single Question Mode ---
+        run_scenario(orchestrator, args.q.strip())
+    
+    elif args.batch:
+        # --- Batch Evaluation Mode (Your Task) ---
+        print(f"[Mode]: Batch Evaluation running with {args.batch}...")
+        
+        # We start the EvalHarness class and run the test.
+        harness = EvalHarness(orchestrator)
+        harness.run_evaluation(args.batch)
 
 if __name__ == "__main__":
     main()
