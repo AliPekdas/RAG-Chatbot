@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "Murat Can Ganiz'in ofisi nerede?",
+    "ground_truth_doc_id": "Akademik Kadro.txt"
+  },
+  {
+    "id": 2,
+    "question": "Ders kaydı nasıl yapılır?",
+    "ground_truth_doc_id": "cap_yönerge.txt"
+  }
+]
