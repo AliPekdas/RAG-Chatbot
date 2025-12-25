@@ -59,7 +59,7 @@ def main():
     args = parser.parse_args()
 
     print("==================================================")
-    print("   RAG SYSTEM (Iteration 1 + Batch CLI)")
+    print("                  RAG SYSTEM")
     print("==================================================")
 
     # 1. Load Configuration
@@ -96,3 +96,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
