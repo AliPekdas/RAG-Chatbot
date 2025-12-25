@@ -1,1 +1,1 @@
-python main.py --q "Murat Can Ganiz’in ofis numarası nedir?"
+python main.py --config config.yaml --batch eval/questions.json
