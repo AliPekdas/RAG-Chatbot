@@ -1,5 +1,5 @@
 # MiniRAG System
-## 1. Ana Yönetim ve Akış  
+## Ana Yönetim ve Akış  
 - RagOrchestrator (rag_orchestrator.py): Sistemin "beyni" rolündedir; niyet algılama, sorgu yazımı, veri getirme, sıralama ve cevap üretme aşamalarını sırasıyla yönetir.
 - EvalHarness (eval_harness.py): Sistemin performansını test eder; belirli bir soru seti üzerinden "Recall@k" (doğru dokümanı bulma oranı) ve "Latency" (gecikme süresi) metriklerini hesaplar.
 - QueryCache (query_cache.py): Daha önce sorulmuş soruları ve verilen cevapları hafızasında tutarak aynı sorular sorulduğunda sistemi tekrar çalıştırmadan hızlı yanıt verir.
