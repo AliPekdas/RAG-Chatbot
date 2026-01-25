@@ -13,7 +13,7 @@ from intent_detector import RuleBasedIntentDetector
 from query_writer import HeuristicQueryWriter
 from retriever import KeywordRetriever
 from reranker import BasicReranker
-from answer_agent import TemplateAnswerAgent
+from answer_agent import TemplateAnswerAgent, LlmAnswerAgent
 from eval_harness import EvalHarness
 
 def ensure_data_exists(config):
@@ -71,13 +71,20 @@ def main():
     print("[System]: Initializing components...")
 
     # 3. Start Components (Dependency Injection)
+    if 'llm' in config['parameters']:
+        print(f"[System]: using {config['parameters']['llm']['provider']} LLM Agent.")
+        selected_agent = LlmAnswerAgent(config)
+    else:
+        print("[System]: Using TemplateAnswerAgent (Simple Mode).")
+        selected_agent = TemplateAnswerAgent(config)
+
     orchestrator = RagOrchestrator(
         intent_detector=RuleBasedIntentDetector(),
         query_writer=HeuristicQueryWriter(),
         retriever=KeywordRetriever(config),
         reranker=BasicReranker(config),
-        answer_agent=TemplateAnswerAgent(config),
-        trace_bus=TraceBus(), 
+        answer_agent=selected_agent,  # <--- Pass the selected agent variable here
+        trace_bus=TraceBus(),
         keyword_index=KeywordIndex(config)
     )
 
@@ -96,5 +103,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
