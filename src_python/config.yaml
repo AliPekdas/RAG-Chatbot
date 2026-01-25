@@ -22,3 +22,10 @@ parameters:
 
   answer:
     maxLength: 500
+
+  llm:
+    provider: "gemini"
+    apiKey: "***"
+    model: "gemini-2.5-flash"
+    maxTokens: 500
+    temperature: 0.7
