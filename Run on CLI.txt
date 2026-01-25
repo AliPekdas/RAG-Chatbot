@@ -1,3 +1,5 @@
 python main.py --config config.yaml --batch eval/questions.json
 
 python main.py --q "Murat Can Ganiz’in ofis numarası nedir?"
+
+python -m streamlit run web_app.py
